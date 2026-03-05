@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SPV CBU membuat Task untuk di Assign ke Staff</description>
+   <name>SPV-CBU-Create-Task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88e9db69-5785-47f2-85f2-c6a2cab30726</testCaseGuid>
+</TestCaseEntity>

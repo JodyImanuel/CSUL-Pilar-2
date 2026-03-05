@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User SPV CBU</description>
+   <name>Login-SPV-CBU</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc02f0a1-0009-4134-a0e9-0ea7fbf5ec11</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Staff CBU</description>
+   <name>Login-Staff-CBU</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b50b664-e51f-413f-8df8-7756bd4b1585</testCaseGuid>
+</TestCaseEntity>
