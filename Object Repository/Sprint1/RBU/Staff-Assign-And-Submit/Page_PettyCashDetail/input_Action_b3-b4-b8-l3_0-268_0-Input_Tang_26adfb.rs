@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dba7ec0c-2e49-43f3-936f-2103ca2cb224</webElementGuid>
+      <webElementGuid>2795c652-c1e8-4596-bbf1-39d0dd597e04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control OSFillParent</value>
-      <webElementGuid>2949e3a5-c980-4c6b-ad86-13f79e74534b</webElementGuid>
+      <webElementGuid>fcfbb81b-b95b-4d57-9609-be171905276c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>31cfcaef-caf7-4a50-b964-fe988667d31f</webElementGuid>
+      <webElementGuid>943b5e76-5f2b-498b-b0b4-8d96270869a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0f2a8f6b-48f9-46b2-9e51-f3c47048e65c</webElementGuid>
+      <webElementGuid>34a983ae-4a6f-4aef-be10-31d5f5097a6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>max</name>
       <type>Main</type>
       <value>2022-03-18</value>
-      <webElementGuid>ea17eecc-6188-4d49-b491-b6ef4c898460</webElementGuid>
+      <webElementGuid>2571edc4-797f-4cec-81df-6043821ecafc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b4-b8-l3_0-268_0-Input_TanggalTransaksiKwitansi</value>
-      <webElementGuid>cbfda4e8-c901-4873-b9c8-7768362adfac</webElementGuid>
+      <webElementGuid>281f84f8-79c7-4f5d-988d-73c82fd12a00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b8-l3_0-268_0-Input_TanggalTransaksiKwitansi&quot;)</value>
-      <webElementGuid>24c394a0-6cc0-4d83-8c15-49656c2f45da</webElementGuid>
+      <webElementGuid>97669d35-eac5-4146-8d9d-e3fd3ccd7da4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='b3-b4-b8-l3_0-268_0-Input_TanggalTransaksiKwitansi']</value>
-      <webElementGuid>d76ca7d2-e2b2-468b-bb88-f245f07805d5</webElementGuid>
+      <webElementGuid>a35945e7-1e70-429c-96aa-fa0c8a60ab0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b8-PettyCashOutStanding']/div[3]/div/table/tbody/tr/td[4]/div/span/input</value>
-      <webElementGuid>5aafd3a7-cfd1-4529-bd3a-5a21c749ab2a</webElementGuid>
+      <webElementGuid>f9deb930-d180-4c4d-89f4-d315e01dc27e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/div/span/input</value>
-      <webElementGuid>d0b6875d-c9c7-4119-a615-879cff86d234</webElementGuid>
+      <webElementGuid>54492bf9-13fe-4c7f-b964-da7b4d890165</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'date' and @id = 'b3-b4-b8-l3_0-268_0-Input_TanggalTransaksiKwitansi']</value>
-      <webElementGuid>16da21a7-0b8b-4e3d-8eb1-52d0c85e3d39</webElementGuid>
+      <webElementGuid>974bbc93-e776-4fa1-9271-4c0229a75b80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

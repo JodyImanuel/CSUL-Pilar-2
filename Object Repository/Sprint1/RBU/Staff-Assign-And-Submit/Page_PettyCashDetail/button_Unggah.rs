@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b905e377-c89d-4887-ba04-6dce6db1cc41</webElementGuid>
+      <webElementGuid>2e02a615-c0b4-451b-bcd3-b42d0c35fd72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-limegreen margin-right-s</value>
-      <webElementGuid>7a625efa-a4ad-45c3-a7e7-ab29ffe1c550</webElementGuid>
+      <webElementGuid>57f5f9ff-52d6-4200-b761-f0d66cdf611f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6fd0d09e-b572-4936-a25b-5653304e3380</webElementGuid>
+      <webElementGuid>a8ed69ae-3793-48e4-8f3b-089793eba537</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Unggah</value>
-      <webElementGuid>48ca06cb-5c60-4991-841f-eb3c91eabb5f</webElementGuid>
+      <webElementGuid>ddba6506-f871-4239-afbf-fd186ae0c6fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b8-b8-b1-Column2&quot;)/div[@class=&quot;padding-base border-radius-l border-primary ThemeGrid_Width11&quot;]/div[@class=&quot;display-flex align-items-center margin-bottom-s justify-content-flex-start&quot;]/div[@class=&quot;display-flex&quot;]/button[@class=&quot;btn btn-limegreen margin-right-s&quot;]</value>
-      <webElementGuid>8fc23d96-73e7-44fd-aa7d-b14aff53ef8f</webElementGuid>
+      <webElementGuid>e52a8f4a-f628-4bce-875a-41b3682d6912</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[20]</value>
-      <webElementGuid>92408ab7-d32b-45f7-82c4-4e46a2a12b2a</webElementGuid>
+      <webElementGuid>4abeca69-6af3-4351-8fd1-3d04314ae117</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b8-b8-b1-Column2']/div/div[2]/div[3]/button</value>
-      <webElementGuid>9e2ba7ad-d505-4315-af02-76d293d357c3</webElementGuid>
+      <webElementGuid>57c71a6d-effc-4eec-8a6e-4817201cd242</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[12]/following::button[1]</value>
-      <webElementGuid>6db66e27-2f12-4505-bb37-76b9e89e56a9</webElementGuid>
+      <webElementGuid>b011ddd3-c69c-42b8-adad-c9e9e5fc56ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On Hand'])[1]/following::button[1]</value>
-      <webElementGuid>e11520a9-73d8-41b7-91bb-2aac32534d10</webElementGuid>
+      <webElementGuid>d8b891e0-3e8b-427b-9457-8138f0be2685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[16]/preceding::button[1]</value>
-      <webElementGuid>c8d701f6-e9c3-43bc-90cc-cd9366b55de7</webElementGuid>
+      <webElementGuid>1226d6df-37b3-4084-b940-9f06279c49d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On Bank'])[1]/preceding::button[2]</value>
-      <webElementGuid>dcea85c4-de5c-4505-a399-37671e07ce0b</webElementGuid>
+      <webElementGuid>5312228d-3154-4ee7-a980-63ff6c51acf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>f1b0cadb-093f-47d8-8cff-4327b6606b20</webElementGuid>
+      <webElementGuid>a7d7de24-9317-47d5-a243-79b2d380eab9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Unggah' or . = 'Unggah')]</value>
-      <webElementGuid>5a217fd6-3510-4636-a8cc-1279a0afef0e</webElementGuid>
+      <webElementGuid>4a9c8413-94d2-4a90-9e79-f2755a799709</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

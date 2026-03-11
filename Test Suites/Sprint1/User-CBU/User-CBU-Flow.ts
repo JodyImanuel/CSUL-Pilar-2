@@ -87,7 +87,7 @@
       <guid>55795857-757e-45d9-9b74-778d152158de</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/PIC-Submit-Tindak-Lanjut</testCaseId>
+      <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/CBU-PIC-Submit-Tindak-Lanjut</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

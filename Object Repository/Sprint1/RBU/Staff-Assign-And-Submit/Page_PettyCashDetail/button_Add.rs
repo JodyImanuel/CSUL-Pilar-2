@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>970ee003-f8e6-47bb-b8ab-5d42869e268a</webElementGuid>
+      <webElementGuid>3314d06c-897b-4838-b53c-d6172ada99cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-orange</value>
-      <webElementGuid>b4091be9-1ff4-422a-b07d-d84fab59f2da</webElementGuid>
+      <webElementGuid>d3c648fc-5e9c-4410-81ae-f6949a782469</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c75fd974-0504-4acb-93c8-dafe9ba046f7</webElementGuid>
+      <webElementGuid>84a48bfd-3947-461e-b812-6b90dfdca05d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>e721ae80-1bca-4564-b7a1-c07728fa21aa</webElementGuid>
+      <webElementGuid>9316bdc6-f03b-45e7-87b7-589a0152f6e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b8-PettyCashOutStanding&quot;)/div[@class=&quot;text-align-right&quot;]/button[@class=&quot;btn btn-orange&quot;]</value>
-      <webElementGuid>a36c2488-c3bf-445e-aa58-b93b94ecca5d</webElementGuid>
+      <webElementGuid>685f284b-3fae-42e3-928a-71a3a21643ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[17]</value>
-      <webElementGuid>e6d0e332-f94d-4f21-8052-5e7d21cd0ac5</webElementGuid>
+      <webElementGuid>3d46c704-7432-4e02-8d51-633801bf71e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b8-PettyCashOutStanding']/div[2]/button</value>
-      <webElementGuid>94aa91eb-220c-4310-84df-6e99295436d6</webElementGuid>
+      <webElementGuid>462ba6b0-79a0-4428-9c11-19c3ba515ec6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Sesuai'])[10]/following::button[1]</value>
-      <webElementGuid>acb833ee-2497-44d4-ade0-da7a0c8be0f3</webElementGuid>
+      <webElementGuid>be28ce0d-e45a-4b28-8bdb-7daa178f60c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sesuai'])[10]/following::button[1]</value>
-      <webElementGuid>40c375b8-aed5-40e4-84f2-f6591c637162</webElementGuid>
+      <webElementGuid>3b61c559-653e-44b2-b60e-42ea3a4e7811</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[3]/preceding::button[1]</value>
-      <webElementGuid>5d98bd3e-3407-4a55-ab4f-fdb91d870399</webElementGuid>
+      <webElementGuid>c172dcb5-ee29-4f9f-bfd6-d22c1201934e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Pengeluaran'])[1]/preceding::button[1]</value>
-      <webElementGuid>de8612ff-e4c3-42b9-b730-4a847b136ee2</webElementGuid>
+      <webElementGuid>fcc403bd-22ec-4a34-a300-5bfebb6381a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
-      <webElementGuid>76885515-89d6-4ea0-8fe5-2883985ec989</webElementGuid>
+      <webElementGuid>38c449de-67bc-4688-91c9-72e4e2700314</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//article/div/div/div/div/div[2]/button</value>
-      <webElementGuid>eb033944-d1af-4a65-824c-15d8e759e667</webElementGuid>
+      <webElementGuid>36739cb6-32a5-439b-ae43-776b11a7d74c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Add' or . = 'Add')]</value>
-      <webElementGuid>b41377d3-c9ef-4c55-b72a-23ebbd20c45a</webElementGuid>
+      <webElementGuid>a0266576-c4b7-408f-9bb5-d76ccff74e3d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2d6206bb-4fcc-4284-bcd4-ab20ab2fd033</webElementGuid>
+      <webElementGuid>d7b35be4-3e32-4506-a79a-2e661f79b0a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control OSFillParent</value>
-      <webElementGuid>9d8f2a3b-0ab4-4e67-b3e5-f068d11ac03f</webElementGuid>
+      <webElementGuid>c690e9a9-e899-4e6b-a815-508181f99ebc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>8ddbbfa2-21e0-49b9-b0a4-77d03544b4b9</webElementGuid>
+      <webElementGuid>a864def6-0cf5-462c-890e-6e4d4489c41b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>af610adc-0059-40f9-8a48-fe00cf8f2ded</webElementGuid>
+      <webElementGuid>113e6a4b-500d-45f0-be58-38ab17728039</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b4-b8-l3_0-268_0-TanggalClaim</value>
-      <webElementGuid>47340b31-bccd-40b5-bb66-923ca634756c</webElementGuid>
+      <webElementGuid>84414ab7-b537-40e0-94c2-0019715ff8ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b8-l3_0-268_0-TanggalClaim&quot;)</value>
-      <webElementGuid>56b834c0-1c93-4a26-91b9-c174b655702b</webElementGuid>
+      <webElementGuid>960e0f04-e0f1-4a64-ae65-ee4ae609fc55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='b3-b4-b8-l3_0-268_0-TanggalClaim']</value>
-      <webElementGuid>bbcd4c2a-4cd1-481a-9b62-6f0850685dde</webElementGuid>
+      <webElementGuid>5fd5b751-616f-46b3-94a2-d7e6c6fa90d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b8-PettyCashOutStanding']/div[3]/div/table/tbody/tr/td[2]/span/input</value>
-      <webElementGuid>c584e961-b543-41ea-9ba5-e83f9835cf84</webElementGuid>
+      <webElementGuid>1c1de270-46c8-4ec0-b5ee-a91c720620ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/span/input</value>
-      <webElementGuid>26906bea-cb6a-497e-b514-bbe43a0389a2</webElementGuid>
+      <webElementGuid>598ac33e-5a34-4d33-9db5-55d5fd863163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'date' and @id = 'b3-b4-b8-l3_0-268_0-TanggalClaim']</value>
-      <webElementGuid>bfb15ee3-b289-492f-a0d5-3d48fb119104</webElementGuid>
+      <webElementGuid>922c7480-4327-4ae8-bb03-0ad8619f23d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

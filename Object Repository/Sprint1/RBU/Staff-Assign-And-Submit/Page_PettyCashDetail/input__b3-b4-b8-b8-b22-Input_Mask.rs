@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3a5586be-2b93-468d-b43a-8870391ca86d</webElementGuid>
+      <webElementGuid>9128fbe2-75f5-46a7-be4c-35729b35f9fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-align-right masked-value</value>
-      <webElementGuid>0dff3284-6242-4362-98e1-ef1c5518ec72</webElementGuid>
+      <webElementGuid>44162ccd-308a-4a4c-9afd-10985647c480</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7498203e-32b6-4733-b02d-7e77818ee744</webElementGuid>
+      <webElementGuid>2ba7c053-002a-47a2-a9f8-aa0834504052</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>15d7719a-e918-4f52-80f2-e32ecf326f18</webElementGuid>
+      <webElementGuid>22975243-fbea-4f4d-b099-d02b67702be3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b4-b8-b8-b22-Input_Mask</value>
-      <webElementGuid>4e6e09ef-5a4e-4bf4-b378-5b57210c2107</webElementGuid>
+      <webElementGuid>c541477e-07d8-4eae-bf6a-6ef46eae1ce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>3f979fb8-34f6-4cbf-aa1b-f1a8b3268e33</webElementGuid>
+      <webElementGuid>1a591cab-c1f8-454b-9cec-99485bc5f6c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>numeric</value>
-      <webElementGuid>9b144025-a6d0-4d1b-84ca-4405ad5359f2</webElementGuid>
+      <webElementGuid>7e85ccdd-9b32-47a6-9a3b-f51f4db2bdad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Rp 0.00</value>
-      <webElementGuid>d9997c05-2423-4545-8d55-a03c75371a94</webElementGuid>
+      <webElementGuid>0976cb80-7f80-4c30-a18e-caa59224d978</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b8-b8-b22-Input_Mask&quot;)</value>
-      <webElementGuid>2013f1df-b570-4875-992c-5e4e37e73fd8</webElementGuid>
+      <webElementGuid>c77c523f-8930-4b4b-affa-c9aa2a208e8b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='b3-b4-b8-b8-b22-Input_Mask']</value>
-      <webElementGuid>24ca5c71-225b-4401-a48b-3d708c0c07d7</webElementGuid>
+      <webElementGuid>598a3b4f-6eb4-4997-8faa-c1977ec5764a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b8-b8-b22-MaskedContent']/span/input</value>
-      <webElementGuid>360bbdec-ecb0-4648-b69e-4679d94ca5d6</webElementGuid>
+      <webElementGuid>3a377a1c-c456-4464-9d23-f869688def80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/span/input</value>
-      <webElementGuid>f2f41491-6ea0-41db-9045-cb43a86c9cd8</webElementGuid>
+      <webElementGuid>158c07f0-1e1c-46aa-bc4e-7a6a481c1eac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'b3-b4-b8-b8-b22-Input_Mask' and @placeholder = 'Rp 0.00']</value>
-      <webElementGuid>13f5b35f-ed3d-4381-8c3a-39e11fd1ae17</webElementGuid>
+      <webElementGuid>62778c25-9b31-4417-b188-7d4154edb05f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

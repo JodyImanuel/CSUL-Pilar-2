@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>25fde80a-e25f-43b2-bcda-71c572bab67c</webElementGuid>
+      <webElementGuid>ed309699-d62d-4b79-9e5d-17f032e80080</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-orange</value>
-      <webElementGuid>1a26b00b-c502-4dcd-a5b3-2ef8feab5624</webElementGuid>
+      <webElementGuid>8a52102a-8aca-4605-af82-b8c06d5ec4af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>081d99c5-8648-444b-b09c-1014e8c93deb</webElementGuid>
+      <webElementGuid>45b03483-2c7d-496f-84be-c9e12207f392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Draft</value>
-      <webElementGuid>ea2f338d-32f8-4e66-8371-62ed352e1e5f</webElementGuid>
+      <webElementGuid>4b721b9b-2f77-4571-9ab5-58fc727b7470</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b9-Button&quot;)/button[@class=&quot;btn btn-orange&quot;]</value>
-      <webElementGuid>eea28a29-819e-4bd5-842e-e5bcf78bdcd4</webElementGuid>
+      <webElementGuid>eb062a5b-933d-4e47-9afa-5922ee106de6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[29]</value>
-      <webElementGuid>9c28b911-5302-4721-bda5-12028a4d3dfe</webElementGuid>
+      <webElementGuid>5d3863aa-28dc-4987-84fa-75c462a9cc41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b9-Button']/button</value>
-      <webElementGuid>4ea7c4ee-d91c-4ef2-a4b5-e600a58c1867</webElementGuid>
+      <webElementGuid>6ea6b9f6-ee9b-4a55-8d6f-6be73e8e4c9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[22]/following::button[1]</value>
-      <webElementGuid>e578b376-ed09-4906-b361-a9b4e4bfe34c</webElementGuid>
+      <webElementGuid>caede1ed-18c8-478d-8a88-88056100f978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Kas Kecil RBU - Kunjungan Lapangan'])[1]/following::button[2]</value>
-      <webElementGuid>1d84e9c4-fd88-41fb-8505-7a63913f47ec</webElementGuid>
+      <webElementGuid>19dc46c8-0f75-4deb-973a-cf8e16a450f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
-      <webElementGuid>ec218adc-d4ac-4620-b64b-a516e91be08d</webElementGuid>
+      <webElementGuid>a28c73fa-a27d-4c46-a426-012f8732c9c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/preceding::button[2]</value>
-      <webElementGuid>d782ede9-5a55-407f-8c08-59de13dd9194</webElementGuid>
+      <webElementGuid>052e49fd-a2c3-49be-af42-de6fba339e81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Draft']/parent::*</value>
-      <webElementGuid>96168b3a-60d8-411b-b6d0-c9a3f0f26bf8</webElementGuid>
+      <webElementGuid>516d87a8-a9ce-4004-b95e-0fb6a8874fa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button</value>
-      <webElementGuid>26fef2c1-9b84-413b-b011-4b77e8a52942</webElementGuid>
+      <webElementGuid>bdf08911-f485-47fb-ae5b-51bdc5c40607</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Draft' or . = 'Draft')]</value>
-      <webElementGuid>e3fe2606-b3e0-4f4e-8c27-8753e37673d0</webElementGuid>
+      <webElementGuid>5295fbe3-b741-447c-a0ab-958d999bbc32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

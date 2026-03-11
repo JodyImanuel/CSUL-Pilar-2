@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d6eeeee0-4b4d-4676-9811-3a6d0cd32008</webElementGuid>
+      <webElementGuid>b19dba2c-168b-4b57-a1d3-4b9c29a5df76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-align-center bold</value>
-      <webElementGuid>25e22364-85a7-41bc-8723-df34298de417</webElementGuid>
+      <webElementGuid>0410cdd4-0196-4399-8a45-eb23fc9a56a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OUTSTANDING PETTY CASH</value>
-      <webElementGuid>1f843f82-07d7-41eb-b448-ff3bf253dbf7</webElementGuid>
+      <webElementGuid>9f947b69-391c-4250-ace4-fe000420b930</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b4-Title&quot;)/div[@class=&quot;text-align-center bold&quot;]</value>
-      <webElementGuid>308e0853-d01f-42e3-a0a6-5090cf29f474</webElementGuid>
+      <webElementGuid>0d8adc89-11ae-421a-91fa-ad3019ebdf19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b4-Title']/div</value>
-      <webElementGuid>cbd14af1-b4b7-4a83-9089-7728f6415540</webElementGuid>
+      <webElementGuid>b1f97e7c-ba24-4de1-a740-af95567c071f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PETTY CASH REIMBURSED'])[1]/following::div[3]</value>
-      <webElementGuid>bba482cc-e0cb-4793-b7b1-103368a5e4c9</webElementGuid>
+      <webElementGuid>970c1959-c128-4598-86de-3e0939c0e2b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[5]/following::div[10]</value>
-      <webElementGuid>fbd1f18d-1064-4649-8f1d-13967322ca07</webElementGuid>
+      <webElementGuid>6009f178-f8e5-4c42-a7b5-742f515ee952</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Transaksi'])[1]/preceding::div[2]</value>
-      <webElementGuid>773e3051-308e-4a22-b42a-ebee3ef54d04</webElementGuid>
+      <webElementGuid>d7920666-4a0e-458d-b101-16efe72df850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sesuai'])[1]/preceding::div[6]</value>
-      <webElementGuid>0aa93974-5adf-41df-ae56-bc012d1ebff9</webElementGuid>
+      <webElementGuid>4c95eebe-eeac-4f50-a9cd-e7c391867bef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OUTSTANDING PETTY CASH']/parent::*</value>
-      <webElementGuid>6c8eefef-eb26-487a-9d6e-db97b2072058</webElementGuid>
+      <webElementGuid>57a999d0-566a-491a-8173-15cde0868bb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button/div/div</value>
-      <webElementGuid>bb172003-8da3-4f5a-bec8-32ecc99943c7</webElementGuid>
+      <webElementGuid>a1288e92-8b4e-4250-bb87-d3b9ba824c74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'OUTSTANDING PETTY CASH' or . = 'OUTSTANDING PETTY CASH')]</value>
-      <webElementGuid>88d0a1bd-da30-4a4d-850f-383e48aec09d</webElementGuid>
+      <webElementGuid>bff93b02-c8a0-47fc-a83e-12630580e0fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
