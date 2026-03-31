@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Utilitas  Fasilitas Kantor</name>
+   <tag></tag>
+   <elementGuidId>11312294-7607-4b70-b79f-30fb11ac571f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/aside/div/div/nav/div[2]/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f631984d-d26a-4f94-b189-1614bc1456be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>last-sub-menu-link OSFillParent</value>
+      <webElementGuid>1d43c925-7eb9-41d7-86d6-320414e9d364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/CSUL_RCU_P2/TindakLanjutUtilityFacility</value>
+      <webElementGuid>9b3ac082-eea1-4b86-8edc-e5c87a00914e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Utilitas &amp; Fasilitas Kantor</value>
+      <webElementGuid>a0be4cad-e5b3-4362-8361-5b7d89fe83b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-l1-17_1-b4-l1-23_5-$b2&quot;)/div[@class=&quot;list list-group OSFillParent&quot;]/a[@class=&quot;last-sub-menu-link OSFillParent&quot;]</value>
+      <webElementGuid>f749cdc3-1a28-4bb6-a381-c46b0779b664</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-l1-17_1-b4-l1-23_5-$b2']/div/a[2]</value>
+      <webElementGuid>90574b6f-02c7-4a02-a224-48894961289f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Petty Cash'])[1]/following::a[1]</value>
+      <webElementGuid>bc4d2145-4141-42a8-9fd4-c1fccab18bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operasional Cabang'])[1]/following::a[2]</value>
+      <webElementGuid>5ac6c95d-2634-4582-beb4-71a3c8fd2867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Management'])[1]/preceding::a[1]</value>
+      <webElementGuid>20415250-757d-4570-8f50-f7bca0ddc84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/CSUL_RCU_P2/TindakLanjutUtilityFacility')]</value>
+      <webElementGuid>a8966b77-b41b-4e32-b9a4-6a26531c801b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>73c731a1-2ac2-4cce-9740-e0a5b465da05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/CSUL_RCU_P2/TindakLanjutUtilityFacility' and (text() = 'Utilitas &amp; Fasilitas Kantor' or . = 'Utilitas &amp; Fasilitas Kantor')]</value>
+      <webElementGuid>d387d1c4-5c2d-4af0-b9e9-721a3eb16771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih OpsiBaikRusak</name>
+   <tag></tag>
+   <elementGuidId>8f5066d4-67b1-411c-8800-95aecac8daee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[5]/aside/div[2]/div/div/form/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b1-b4-b11-Dropdown2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>025e0c9e-9ae1-4251-870e-fcfadcfa22af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>536e8fee-1463-4b70-9281-ebb0bdc737e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>96cad76a-36a8-4a29-9f97-b5daff51d851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-b1-b4-b11-Dropdown2</value>
+      <webElementGuid>49e0c862-c7e7-496a-8298-16c771d11d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih OpsiBaikRusak</value>
+      <webElementGuid>cf112614-b81e-41bb-ab58-da563c5dd7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-b11-Dropdown2&quot;)</value>
+      <webElementGuid>aa28cf4c-9203-4326-a1f2-475273e7a8c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='b3-b1-b4-b11-Dropdown2']</value>
+      <webElementGuid>bf37d9b0-0c9f-46cb-ac58-2f9f026ca237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-b11-Dropdown2-container']/select</value>
+      <webElementGuid>9f28b2cb-c9f7-42b5-831e-54756bdf4bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi'])[14]/following::select[1]</value>
+      <webElementGuid>ef8d85e6-8dc0-4098-8f23-b6ec365473df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keberadaan'])[18]/following::select[2]</value>
+      <webElementGuid>9c232219-bba7-40f4-a23c-4f5eda4ec31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Temuan'])[18]/preceding::select[1]</value>
+      <webElementGuid>7af40b7c-066c-4e5b-96c6-b974557f7c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan'])[18]/preceding::select[2]</value>
+      <webElementGuid>2d2fe653-4bec-4e36-8a06-fcc88df35ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>62ffc22e-90f8-4c62-8e1c-a60d9d2096b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-b1-b4-b11-Dropdown2' and (text() = 'Pilih OpsiBaikRusak' or . = 'Pilih OpsiBaikRusak')]</value>
+      <webElementGuid>54c0196d-0a6a-4897-af45-5146d3f36df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi'])[5]/following::select[1]</value>
+      <webElementGuid>9bd1b497-bf7b-4dbf-b3d9-11f606d7e4ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keberadaan'])[7]/following::select[2]</value>
+      <webElementGuid>c2918796-15fb-4e64-ab7c-b02f66a7ac22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Temuan'])[7]/preceding::select[1]</value>
+      <webElementGuid>fb4ac15f-974c-4dad-a1b6-201b6fa24c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan'])[7]/preceding::select[2]</value>
+      <webElementGuid>ab35dc10-8e37-4df6-a69e-eb06d60aa838</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

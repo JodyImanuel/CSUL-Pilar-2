@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Operasional Cabang_osui-submenu__header__icon</name>
+   <tag></tag>
+   <elementGuidId>4301910b-3333-4dbd-87cd-4684b6c17a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/aside/div/div/nav/div[2]/div/div/div/div[3]/div/div/div[2]/div/div/div[2]/div/div/div[1]/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-l1-17_9-b4-l1-41_5-b1-SubMenuHeader > div.osui-submenu__header__icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b39531c4-e108-4fea-b67f-9fac89eef329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>osui-submenu__header__icon</value>
+      <webElementGuid>24601442-6cb8-4ea3-a829-b8960991158b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-l1-17_9-b4-l1-41_5-b1-SubMenuHeader&quot;)/div[@class=&quot;osui-submenu__header__icon&quot;]</value>
+      <webElementGuid>d64d2572-a550-4741-8ffb-4d1b721d1ab6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-l1-17_9-b4-l1-41_5-b1-SubMenuHeader']/div[2]</value>
+      <webElementGuid>63328207-0c52-4d06-bc73-904964fed659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>a5dc115e-908e-481e-9b5d-ff87e4846a98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

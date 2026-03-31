@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Unggah_icon margin-right-s fa fa-arrow-up fa-1x</name>
+   <tag></tag>
+   <elementGuidId>e0f5c67a-764b-4817-9a41-cb08ad090e21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='b3-b1-b4-b13-Form2']/div[11]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(11) > button.btn.btn-limegreen > i.icon.margin-right-s.fa.fa-arrow-up.fa-1x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>722bd531-d398-4983-a68c-08caa416b165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon margin-right-s fa fa-arrow-up fa-1x</value>
+      <webElementGuid>7186242e-f668-4068-b139-aac20c418950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-b13-Form2&quot;)/div[11]/button[@class=&quot;btn btn-limegreen&quot;]/i[@class=&quot;icon margin-right-s fa fa-arrow-up fa-1x&quot;]</value>
+      <webElementGuid>c8a94699-338b-4543-bd2f-53a3f0c72104</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='b3-b1-b4-b13-Form2']/div[11]/button/i</value>
+      <webElementGuid>585fc671-6330-4bc4-af4b-cf449e71b5b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/button/i</value>
+      <webElementGuid>8f06d091-1d80-4bfd-b3ff-46e1b47e822d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

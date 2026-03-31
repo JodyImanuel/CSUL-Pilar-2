@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Kirim Tindak lanjut_icon margin-right-s f_7ab6f9</name>
+   <tag></tag>
+   <elementGuidId>4a5ecc83-2d7a-4b9f-bf94-e392c4c5c7e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b3-$b2']/div[5]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.margin-right-s.fa.fa-paper-plane-o.fa-1x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>98503f50-e019-4062-a666-2783ddb0c04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon margin-right-s fa fa-paper-plane-o fa-1x</value>
+      <webElementGuid>87a4488d-9388-4c4b-a274-877ddaaa5616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-$b2&quot;)/div[@class=&quot;text-align-right&quot;]/button[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;icon margin-right-s fa fa-paper-plane-o fa-1x&quot;]</value>
+      <webElementGuid>2d4198e1-63b2-4b18-a129-0546f548a4db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-$b2']/div[5]/button/i</value>
+      <webElementGuid>be453888-ae1c-480c-8b79-864da54a82ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/i</value>
+      <webElementGuid>f9b3f83b-64b8-4467-8890-2357e35198b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

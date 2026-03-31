@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apakah Anda yakin ingin mengirimkan tin_b488dd</name>
+   <tag></tag>
+   <elementGuidId>5c030f1c-0936-41ad-a66f-e6b1661c8d8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-dialog.popup-dialog.popup-notif2.popup-confirmation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Development CSULFinance'])[1]/following::div[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c22649d-3751-4d95-b3bb-c7491ee31cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-dialog popup-dialog popup-notif2 popup-confirmation</value>
+      <webElementGuid>3e5c1865-d1b3-4319-850f-a6aaa0d7e9a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>fe9884bf-187c-4f3c-8607-ea34be953a5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d064fcca-91b5-4b2d-812c-0d333cb7f281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apakah Anda yakin ingin mengirimkan tindak lanjut kepada PIC terkait?Seluruh dokumen/kontrak yang telah dipilih akan dikirimkan kepada PIC yang telah Anda tentukan.BatalKirim Tindak Lanjut</value>
+      <webElementGuid>83a558c5-0096-4ce3-bc00-8e96987165ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;popup-disable-scroll&quot;]/body[@class=&quot;desktop landscape windows chrome os-dark-mode is-ltr&quot;]/div[@class=&quot;portal-class&quot;]/div[1]/div[@class=&quot;popup-backdrop&quot;]/div[@class=&quot;popup-dialog popup-dialog popup-notif2 popup-confirmation&quot;]</value>
+      <webElementGuid>72fe15ba-0941-4509-b8cc-ceae3fcc2342</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Development CSULFinance'])[1]/following::div[12]</value>
+      <webElementGuid>70407a3f-3331-4423-846d-7fb4769f9ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/following::div[12]</value>
+      <webElementGuid>735f8d95-22c2-429c-9f16-81c3c0c19fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>2600bc5b-cc29-41ed-afbc-99d3689b20b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apakah Anda yakin ingin mengirimkan tindak lanjut kepada PIC terkait?Seluruh dokumen/kontrak yang telah dipilih akan dikirimkan kepada PIC yang telah Anda tentukan.BatalKirim Tindak Lanjut' or . = 'Apakah Anda yakin ingin mengirimkan tindak lanjut kepada PIC terkait?Seluruh dokumen/kontrak yang telah dipilih akan dikirimkan kepada PIC yang telah Anda tentukan.BatalKirim Tindak Lanjut')]</value>
+      <webElementGuid>250c3a7a-2830-45c6-92c4-74411eb0e1b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

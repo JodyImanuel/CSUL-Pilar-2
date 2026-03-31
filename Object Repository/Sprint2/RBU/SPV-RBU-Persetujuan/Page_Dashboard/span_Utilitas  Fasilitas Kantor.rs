@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Utilitas  Fasilitas Kantor</name>
+   <tag></tag>
+   <elementGuidId>0e5e4190-476b-42f9-8329-0a32fc33c84e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b2-l1-17_9-b4-l1-41_5-$b2']/div/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7af19fc6-ce14-44a4-86db-e7ffdb79e278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ThemeGrid_MarginGutter</value>
+      <webElementGuid>91ac3184-6845-4ac4-bdda-ab01c641815e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Utilitas &amp; Fasilitas Kantor</value>
+      <webElementGuid>5e746d35-bd51-4f61-a739-7b8f27eb12a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-l1-17_9-b4-l1-41_5-$b2&quot;)/div[@class=&quot;list list-group OSFillParent&quot;]/a[@class=&quot;last-sub-menu-link OSFillParent&quot;]/span[@class=&quot;ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>6905ed9e-6112-40f5-a53c-09ef1bd5b47a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-l1-17_9-b4-l1-41_5-$b2']/div/a[2]/span</value>
+      <webElementGuid>3795b8d9-ee90-4c06-8598-d120c033c9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Petty Cash'])[2]/following::span[1]</value>
+      <webElementGuid>28366d01-5ff2-48de-bb9c-74024a27c518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operasional Cabang'])[2]/following::span[3]</value>
+      <webElementGuid>9b4e03e4-455a-4647-ba16-d122adce1d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengelolaan Aset'])[2]/preceding::span[2]</value>
+      <webElementGuid>20edcdd0-e623-4666-81d5-3abe561b89e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemeriksaan Penerimaan Dokumen'])[2]/preceding::span[4]</value>
+      <webElementGuid>9e0bd5e2-fb2c-4155-b2e4-0f90b213a108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/a[2]/span</value>
+      <webElementGuid>0fe74838-2fea-47dc-9a26-14ab288d7a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Utilitas &amp; Fasilitas Kantor' or . = 'Utilitas &amp; Fasilitas Kantor')]</value>
+      <webElementGuid>3dcb8d10-6a85-4ad7-a742-95b32deaee7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

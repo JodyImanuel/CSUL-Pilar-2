@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Browse</name>
+   <tag></tag>
+   <elementGuidId>0b9854cc-5c6d-4e33-9e79-1ae45afd7fdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.display-flex.align-items-center.justify-content-center.flex-direction-row > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b3-b1-b4-b13-b4-dropzone']/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ca29145-c4c7-49aa-8537-477d3b966dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accept</name>
+      <type>Main</type>
+      <value>.xlsx, .pdf</value>
+      <webElementGuid>e739cdb3-4906-456d-87ef-e4f46c52cd3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse</value>
+      <webElementGuid>e213458b-9862-47d8-8b4f-c0b32da48384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-b13-b4-dropzone&quot;)/div[@class=&quot;display-flex align-items-center justify-content-center flex-direction-row&quot;]/a[1]/span[1]</value>
+      <webElementGuid>0f350109-5acd-40c7-983d-d363b224fab4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-b13-b4-dropzone']/div[2]/a/span</value>
+      <webElementGuid>a397c603-7567-4e6e-81b0-6a3c99da28b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Dokumen'])[1]/following::span[1]</value>
+      <webElementGuid>fd1ff0c3-0481-4228-af88-512a5ac0524c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supported formats : xlsx,pdf,jpg,png,docx'])[1]/preceding::span[1]</value>
+      <webElementGuid>5612aeec-650e-4df0-8d4f-4e9c57e7a5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select file'])[1]/preceding::span[2]</value>
+      <webElementGuid>3ef37a83-3d8f-4267-adef-195262cf2928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse']/parent::*</value>
+      <webElementGuid>37a642b5-846d-463b-b9d3-5cbc3ebe30e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>8a0a55de-4483-423d-86d6-18a2f1951147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Browse' or . = 'Browse')]</value>
+      <webElementGuid>f278472e-5209-4733-84d8-5a3b71a4b06a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -12,13 +12,6 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>9d7e5ee7-147d-4335-8601-42b54deb283b</testSuiteGuid>
    <testCaseLink>
-      <guid>e2d8768a-315c-4aad-b6f3-a8013555ec86</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/SPV-CBU-Create-Task</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>2616f0ac-3ac3-419d-a413-638de03489ac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

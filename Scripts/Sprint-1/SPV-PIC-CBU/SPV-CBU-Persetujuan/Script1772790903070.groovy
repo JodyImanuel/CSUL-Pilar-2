@@ -31,13 +31,13 @@ WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_Dashb
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_Dashboard/a_Petty Cash'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/input__b3-b1-b1-StartDate'), 
-    '10-03-2026')
+    '13-03-2026')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/input__b3-b1-b1-EndDate'), 
-    '10-03-2026')
+    '13-03-2026')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/select_Select BranchBANJARMASINJAKARTA 1 SY_b47ff5'), 
-    '7', true)
+    '8', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/select_Search ByMenunggu PersetujuanDisetuj_d33d04'), 
     '0', true)

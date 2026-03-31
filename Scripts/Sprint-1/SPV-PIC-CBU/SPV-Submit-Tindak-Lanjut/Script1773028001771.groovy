@@ -31,10 +31,10 @@ WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashbo
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashboard/a_Petty Cash'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/input__b3-b1-b1-StartDate'), 
-    '10-03-2026')
+    '13-03-2026')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/input__b3-b1-b1-EndDate'), 
-    '10-03-2026')
+    '13-03-2026')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9'), 
     '0', true)

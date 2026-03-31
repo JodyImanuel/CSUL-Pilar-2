@@ -49,46 +49,46 @@ WebUI.click(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Pa
 WebUI.click(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCash/button_Pemeriksaan'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 53,000.00_b3-b3-b6-l4_0-257_2-Inpu_e52861'), 
-    '24-02-2022')
+    '24-12-2024')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 53,000.00_b3-b3-b6-l4_0-257_2-b4-I_ee951e'), 
-    '53000')
+    '10000')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiSesuaiTidak Sesuai'), 
     '0', true)
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 450,000.00_b3-b3-b6-l4_0-257_3-Inp_f9cef8'), 
-    '24-02-2022')
+    '24-12-2024')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 450,000.00_b3-b3-b6-l4_0-257_3-b4-_26d665'), 
-    '250000')
+    '120000')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiSesuaiTidak Sesuai_1'), 
     '0', true)
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 2,000.00_b3-b3-b6-l4_0-257_4-Input_a620ba'), 
-    '24-02-2022')
+    '24-12-2024')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 2,000.00_b3-b3-b6-l4_0-257_4-b4-In_4c044b'), 
-    '2000')
+    '150000')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiSesuaiTidak Sesuai_2'), 
     '0', true)
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 30,000.00_b3-b3-b6-l4_0-257_5-Inpu_592d01'), 
-    '24-02-2022')
+    '24-12-2024')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 30,000.00_b3-b3-b6-l4_0-257_5-b4-I_8ae26f'), 
-    '30000')
+    '170000')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiSesuaiTidak Sesuai_3'), 
     '0', true)
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 150,000.00_b3-b3-b6-l4_0-257_6-Inp_7773c8'), 
-    '24-02-2022')
+    '24-12-2024')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Rp 150,000.00_b3-b3-b6-l4_0-257_6-b4-_bed132'), 
-    '150000')
+    '30000')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiSesuaiTidak Sesuai_4'), 
     '0', true)
@@ -133,22 +133,22 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_3'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_4'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_4'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_4'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_4'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_5'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_5'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_5'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_5'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_6'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_6'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_6'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_6'), 
     '0', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/button_Draft'))
@@ -175,16 +175,16 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_9'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_10'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_10'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_10'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_10'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_11'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiAdaTidak Ada_11'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_11'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/select_Pilih OpsiTepatTidak Tepat_11'), 
     '0', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/Staff-Assign-And-Submit/Page_PettyCashDetail/button_Draft'))

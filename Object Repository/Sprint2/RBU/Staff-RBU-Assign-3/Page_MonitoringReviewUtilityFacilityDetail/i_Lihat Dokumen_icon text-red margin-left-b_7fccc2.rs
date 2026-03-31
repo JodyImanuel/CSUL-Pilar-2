@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Lihat Dokumen_icon text-red margin-left-b_7fccc2</name>
+   <tag></tag>
+   <elementGuidId>436ec6ba-5fb6-4ff6-aae5-4e49e2b23b81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b3-b1-b4-l2-236_0-b2-Content']/div/div/div[2]/div[2]/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.text-red.margin-left-base.fa.fa-times.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8068c7a9-4611-4c71-b09b-667757cf3a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon text-red margin-left-base fa fa-times fa-2x</value>
+      <webElementGuid>6c2a7f04-694b-4983-8de4-8049946d6f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-l2-236_0-b2-Content&quot;)/div[1]/div[@class=&quot;display-flex align-items-center al&quot;]/div[@class=&quot;display-flex align-items-center&quot;]/div[@class=&quot;margin-right-base display-flex justify-content-center align-items-center&quot;]/div[1]/div[@class=&quot;detail-utility-width display-flex justify-content-space-between&quot;]/a[@class=&quot;ThemeGrid_MarginGutter&quot;]/i[@class=&quot;icon text-red margin-left-base fa fa-times fa-2x&quot;]</value>
+      <webElementGuid>77480da3-e807-456e-ab7c-62ada2990916</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-l2-236_0-b2-Content']/div/div/div[2]/div[2]/div/div/a/i</value>
+      <webElementGuid>fa1141cb-ad5b-4fbd-b25a-b5b1c433f7cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a/i</value>
+      <webElementGuid>41252e66-f75f-4907-9304-65535930a4b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

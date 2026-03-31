@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih OpsiLantai 1Lantai 2Lantai 3</name>
+   <tag></tag>
+   <elementGuidId>1e6a0954-772c-45aa-ba16-37f386b1a687</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[6]/aside/div[2]/div/div/form/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b1-b4-b13-Dropdown2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e6c8a79d-62c4-45ca-84cc-97a021613f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>2b343142-1b46-42d9-92cd-f77394d3d91c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>40722571-1ef5-4023-a814-2d1216af59ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-b1-b4-b13-Dropdown2</value>
+      <webElementGuid>8291eca8-cefa-41d4-a145-32a465e223df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih OpsiLantai 1Lantai 2Lantai 3</value>
+      <webElementGuid>4933a931-0fd6-48c2-a80f-d6db5fa5025c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-b13-Dropdown2&quot;)</value>
+      <webElementGuid>c1564b6b-784b-46e9-90ff-d208c73b0ad6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='b3-b1-b4-b13-Dropdown2']</value>
+      <webElementGuid>c9e1b921-244a-4bc1-89dd-afb11a678d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-b13-Dropdown2-container']/select</value>
+      <webElementGuid>aad39c0b-5069-463d-94a6-30a2adf7d443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lantai'])[5]/following::select[1]</value>
+      <webElementGuid>84d7c68f-472a-40fc-896b-ffce546e352c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keberadaan'])[19]/following::select[2]</value>
+      <webElementGuid>15e84d23-c676-4251-8109-00a0e4386005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baik'])[12]/preceding::select[1]</value>
+      <webElementGuid>1a06aed6-f227-4832-bb49-2e498998bf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rusak'])[8]/preceding::select[1]</value>
+      <webElementGuid>f263bc07-645f-4906-80d7-4583a40e10cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/aside/div[2]/div/div/form/div[2]/div/select</value>
+      <webElementGuid>0d8a827e-f45b-413c-8837-e8a07fd8f3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-b1-b4-b13-Dropdown2' and (text() = 'Pilih OpsiLantai 1Lantai 2Lantai 3' or . = 'Pilih OpsiLantai 1Lantai 2Lantai 3')]</value>
+      <webElementGuid>1f42a7d1-4d7b-4604-bf45-6e5f7203c44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lantai'])[6]/following::select[1]</value>
+      <webElementGuid>81026b84-b2e9-4d8b-8e39-622b952c4182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keberadaan'])[12]/following::select[2]</value>
+      <webElementGuid>c6603ace-ca8a-4e2f-8f41-bff3d9772bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baik'])[14]/preceding::select[1]</value>
+      <webElementGuid>92ef9ce5-326a-4d51-a2ad-24bc09ca9184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rusak'])[9]/preceding::select[1]</value>
+      <webElementGuid>6db1bfbc-4add-4cbb-94c4-120de74974df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

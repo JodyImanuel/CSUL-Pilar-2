@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Detail Fasilitas - Credenza_icon fa fa-ti_92015a</name>
+   <tag></tag>
+   <elementGuidId>e550bed0-bbac-4ac3-860e-238e073eea8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b1-b4-b12-Header > div.display-flex.justify-content-space-between.align-items-center > i.icon.fa.fa-times.fa-2x.ThemeGrid_MarginGutter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[6]/aside/div[1]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>01ee1352-e468-469f-8ffd-0e3ffd728437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-times fa-2x ThemeGrid_MarginGutter</value>
+      <webElementGuid>bf319a8d-f2b5-4b12-9eb4-77f4f6df5ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-b12-Header&quot;)/div[@class=&quot;display-flex justify-content-space-between align-items-center&quot;]/i[@class=&quot;icon fa fa-times fa-2x ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>6b0622b6-202e-4b2d-8b49-e02b8e4be3dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-b12-Header']/div/i</value>
+      <webElementGuid>f32ea5cb-1fa8-41ef-b422-1f250437eda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/aside/div/div/i</value>
+      <webElementGuid>e514e529-2fbe-4d88-9e0d-9491027206c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

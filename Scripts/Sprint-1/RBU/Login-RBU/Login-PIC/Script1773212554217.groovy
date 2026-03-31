@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://sakti-sandbox.csulfinance.com/CSUL_RCU/')
+not_run: WebUI.navigateToUrl('https://sakti-sandbox.csulfinance.com/CSUL_RCU/')
+
+WebUI.navigateToUrl('https://sakti-test.csulfinance.com/CSULFoundation_Login/Login?RedirectURL=https%3A%2F%2Fsakti-test.csulfinance.com%2F')
 
 WebUI.maximizeWindow()
 
@@ -30,6 +32,8 @@ WebUI.setText(findTestObject('Object Repository/Sprint1/Login/SPV-Login/Page_Log
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Sprint1/Login/SPV-Login/Page_Login/input_Password_Input_PasswordVal'), 
     'DKZg8gTnVzw=')
+
+WebUI.delay(15)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/Login/SPV-Login/Page_Login/button_Login'))
 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Operasional Cabang</name>
+   <tag></tag>
+   <elementGuidId>71238c32-2691-4666-b7ce-1b4bbe2d0040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b2-l1-16_10-b4-l1-50_5-b1-Menu']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-l1-16_10-b4-l1-50_5-b1-Menu > span.ThemeGrid_MarginGutter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b7a2ea10-7695-401d-828f-f9e0f6cd608d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ThemeGrid_MarginGutter</value>
+      <webElementGuid>cf462dc8-07c1-4f29-ad61-7f4edfa462da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operasional Cabang</value>
+      <webElementGuid>985a8c10-7efc-4994-8d53-cffa9d79f6a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-l1-16_10-b4-l1-50_5-b1-Menu&quot;)/span[@class=&quot;ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>246a29df-c04e-47b8-81a4-821d6ac1049b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-l1-16_10-b4-l1-50_5-b1-Menu']/span</value>
+      <webElementGuid>0c14a832-4885-4f82-8315-27320875ac31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showroom/Supplier'])[3]/following::span[2]</value>
+      <webElementGuid>cc6a28bc-61e7-44ea-962c-0913ecd81632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Contract'])[3]/following::span[3]</value>
+      <webElementGuid>94263536-7528-4bc4-ad6f-e5b77bd0b361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Petty Cash'])[3]/preceding::span[2]</value>
+      <webElementGuid>31a09423-194e-4238-a397-43c152202764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilitas &amp; Fasilitas Kantor'])[3]/preceding::span[3]</value>
+      <webElementGuid>39197b78-8247-4130-acf3-08ef5090381b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>5b0af453-701e-4437-a703-29c56f802b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Operasional Cabang' or . = 'Operasional Cabang')]</value>
+      <webElementGuid>aa42494a-b515-4c4a-8a20-df43d1bd344d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

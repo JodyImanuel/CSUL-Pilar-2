@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>07267f88-e1ce-41c8-ba03-c2a723279226</testSuiteGuid>
+   <testCaseLink>
+      <guid>6a1a67ed-82ce-4987-abd9-21993037099c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-14</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d3fdd03d-d033-4a15-b190-40c62d60cefe</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5c3184b9-73be-4556-b82e-afbd835cacd0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-15</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d8421bd7-9482-4f53-b8e8-81bee52b94ae</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c498505b-fe65-4e48-ad90-6a97fc7c7050</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-16</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d6ccbb36-a3b6-40ac-9a80-1edfe4f92488</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d1683b7c-9bc2-41f4-a0c4-1f9414fe6125</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-17</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>60796e17-9fe7-4086-ba34-d2612e41445e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6fdb4f24-be25-4550-8bda-becda54218d1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-18</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a2e10628-236c-40ee-8023-8942cf717223</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5be58a8f-40fb-4630-b83d-7511b1ec2a33</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-19</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e06cd1d6-9b67-4519-9838-ed20fd575af0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>41c163cc-899b-444d-bf10-4ad0c7efbd9c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-20</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2e8b3aea-f0eb-4391-8054-f049cb2b475e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>16ee3cb7-dec5-4ac1-ab2e-ae23d61a0ab8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-21</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>72c427be-09d8-4b35-ac6b-32963d7ba65f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d56ef17c-897f-4ba3-9bfe-da12193ddcb7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-22</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>708a0063-5ac6-4abd-8dfd-6342b7c0780b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1679f075-e195-4ce7-8492-74c3cfb35053</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/CBU/Staff-Assign-Draft-23</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d716058a-875c-4911-bc1e-fcfc17fbc056</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

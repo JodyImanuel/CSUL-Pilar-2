@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apakah anda yakin ingin melanjutkan ke _5a6b21</name>
+   <tag></tag>
+   <elementGuidId>234adb4b-158a-483b-93ca-58edb4d23c2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-dialog.popup-dialog.popup-notif2.popup-confirmation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4c6a41a-55fc-4e3d-97be-ec956d71ef7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-dialog popup-dialog popup-notif2 popup-confirmation</value>
+      <webElementGuid>08239aa9-a12c-4940-8338-b8d9bc52352c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>cd559cb5-b212-4785-bd9b-7dedea02f236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b6923cf3-c6ab-42c3-88ef-4af713745766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apakah anda yakin ingin melanjutkan ke proses Persetujuan ? Data tidak dapat diubah setelah proses iniCancelSubmit</value>
+      <webElementGuid>bfb82180-0be9-442e-885a-ba590e8d7157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;popup-disable-scroll&quot;]/body[@class=&quot;windows chrome os-dark-mode is-ltr desktop landscape&quot;]/div[@class=&quot;portal-class&quot;]/div[1]/div[@class=&quot;popup-backdrop&quot;]/div[@class=&quot;popup-dialog popup-dialog popup-notif2 popup-confirmation&quot;]</value>
+      <webElementGuid>5edcfe4f-dcfc-49c1-b435-e20939c3d7f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Development CSULFinance'])[1]/following::div[4]</value>
+      <webElementGuid>e301673a-6abd-4752-96d9-348523b22d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/following::div[4]</value>
+      <webElementGuid>843477cf-6788-4563-bd7c-cf9d95496707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>963f3d75-fad4-4cae-b988-401e2d884778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apakah anda yakin ingin melanjutkan ke proses Persetujuan ? Data tidak dapat diubah setelah proses iniCancelSubmit' or . = 'Apakah anda yakin ingin melanjutkan ke proses Persetujuan ? Data tidak dapat diubah setelah proses iniCancelSubmit')]</value>
+      <webElementGuid>a8f50edb-d9f3-4d5b-bbe4-492d6f3a9648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

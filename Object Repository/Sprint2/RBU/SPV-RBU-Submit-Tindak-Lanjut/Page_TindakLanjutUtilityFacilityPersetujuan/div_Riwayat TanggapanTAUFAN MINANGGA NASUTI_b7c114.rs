@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Riwayat TanggapanTAUFAN MINANGGA NASUTI_b7c114</name>
+   <tag></tag>
+   <elementGuidId>a13cefc9-9379-4c52-9d05-2ff6227bae0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-backdrop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>88e2c876-f0f6-4822-a0dd-9587e10af67a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-backdrop</value>
+      <webElementGuid>5158b6eb-4b8e-4889-98ac-368b6a5b1a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Riwayat TanggapanTAUFAN MINANGGA NASUTIONTanggal Update : Tindak Lanjut :Catatan :2026-03-13 03:36:11SelesaiDoneFATIMAH AZ ZAHRA ALHASNITanggal Update : Tenggat Waktu Penyelesaian :Catatan :2026-03-13 03:14:112026-03-15Done</value>
+      <webElementGuid>31b659ad-1306-4e7c-917d-2913284b648f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;popup-disable-scroll&quot;]/body[@class=&quot;windows chrome os-dark-mode is-ltr desktop landscape&quot;]/div[@class=&quot;portal-class&quot;]/div[1]/div[@class=&quot;popup-backdrop&quot;]</value>
+      <webElementGuid>37c1a575-24e8-4a1d-aadf-498ab9268cd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Development CSULFinance'])[1]/following::div[3]</value>
+      <webElementGuid>6b9a10a2-f83a-47d0-9665-207df1878b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/following::div[3]</value>
+      <webElementGuid>78b6de6d-c0a5-4c85-af99-a5e97c939c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>262847cd-d134-4d76-8b9b-c4d471f1bc00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Riwayat TanggapanTAUFAN MINANGGA NASUTIONTanggal Update : Tindak Lanjut :Catatan :2026-03-13 03:36:11SelesaiDoneFATIMAH AZ ZAHRA ALHASNITanggal Update : Tenggat Waktu Penyelesaian :Catatan :2026-03-13 03:14:112026-03-15Done' or . = 'Riwayat TanggapanTAUFAN MINANGGA NASUTIONTanggal Update : Tindak Lanjut :Catatan :2026-03-13 03:36:11SelesaiDoneFATIMAH AZ ZAHRA ALHASNITanggal Update : Tenggat Waktu Penyelesaian :Catatan :2026-03-13 03:14:112026-03-15Done')]</value>
+      <webElementGuid>9372ca1f-4c22-42d4-b4e5-0b1bfc5f14a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
