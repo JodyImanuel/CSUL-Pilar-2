@@ -31,13 +31,13 @@ WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashbo
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashboard/a_Petty Cash'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCash/input__b3-b1-b1-StartDate'), 
-    '13-03-2026')
+    '14-04-2026')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCash/input__b3-b1-b1-EndDate'), 
-    '13-03-2026')
+    '14-04-2026')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCash/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9'), 
-    '0', true)
+    '14', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCash/button_Cari'))
 
@@ -48,10 +48,10 @@ WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Tindak
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/button_Kirim Tindak Lanjut'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/input_Nama Karyawan_b3-b2-b9-b2-NamaKaryawan'), 
-    'Irwansyah')
+    'Fatimah AZ')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/input_Jabatan Karyawan_b3-b2-b9-b2-NamaKaryawan2'), 
-    'IT Developer')
+    'IT Business Partner')
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/button_Cari'))
 
@@ -75,10 +75,10 @@ WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Tindak
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/button_Kirim Tindak Lanjut_1'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/input_Nama Karyawan_b3-b2-b9-b2-NamaKaryawan'), 
-    'Irwansyah')
+    'Fatimah AZ')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/input_Jabatan Karyawan_b3-b2-b9-b2-NamaKaryawan2'), 
-    'IT Developer')
+    'IT Business Partner')
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_TindakLanjutPettyCashDetail/button_Cari'))
 

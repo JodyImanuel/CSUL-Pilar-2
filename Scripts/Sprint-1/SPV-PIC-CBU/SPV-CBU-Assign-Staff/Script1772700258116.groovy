@@ -34,7 +34,7 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Sprint1/SPV-Assign
     10)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Assign-Staff/Page_PettyCash/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9_1'), 
-    '0', true)
+    '14', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Assign-Staff/Page_PettyCash/select_Pilih OpsiBaruPenugasanDalam ProsesM_e7f10e'), 
     '0', true)

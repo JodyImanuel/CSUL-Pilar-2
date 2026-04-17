@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Staff-Assign-Draft</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e3fa3c3-ad57-4600-a544-c20998ce0d2f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76cdd970-37e3-475d-ab79-7e2f87a25694</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05ccc83b-d3d7-4b87-add4-574526b2d5bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum1.pdf'</defaultValue>
+      <description></description>
+      <id>76cdd970-37e3-475d-ab79-7e2f87a25694</id>
+      <masked>false</masked>
+      <name>Lorem1</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum2.pdf'</defaultValue>
+      <description></description>
+      <id>05ccc83b-d3d7-4b87-add4-574526b2d5bc</id>
+      <masked>false</masked>
+      <name>Lorem2</name>
+   </variable>
+</TestCaseEntity>

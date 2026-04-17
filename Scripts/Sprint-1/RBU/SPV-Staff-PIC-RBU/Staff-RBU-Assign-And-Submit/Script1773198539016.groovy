@@ -19,6 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Sprint-1/RBU/Login-RBU/Login-Staff-RBU'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForElementVisible(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Draft/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'), 
+    10)
+
 WebUI.doubleClick(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Draft/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'))
 
 WebUI.click(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Draft/Page_Dashboard/div_Monitoring  Review'))
@@ -29,8 +32,8 @@ WebUI.click(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Draft
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCash/span_PEMERIKSAAN PETTY CASH KANTOR CABANG'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCash/select_Pilih OpsiBaruDalam ProsesMenunggu P_427f57'), 
-    '1', true)
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCash/select_Pilih OpsiBaruDalam ProsesMenunggu P_427f57'), 
+    '0', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCash/button_Cari'))
 

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Depan Kantor</name>
+   <tag></tag>
+   <elementGuidId>79d23a43-5608-474a-ac45-7cb3a87747e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b1-b4-l2-190_1-b2-TitleWrapper > div.osui-accordion-item__icon.osui-accordion-item__icon--caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[2]/div/div/div[2]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>820309cd-6565-4806-8e6d-bc07d62b7f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>osui-accordion-item__icon osui-accordion-item__icon--caret</value>
+      <webElementGuid>33e62736-dd13-4346-8425-925c25082aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4aaa6dc6-278b-449b-9fbb-d8c56a98def4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-l2-190_1-b2-TitleWrapper&quot;)/div[@class=&quot;osui-accordion-item__icon osui-accordion-item__icon--caret&quot;]</value>
+      <webElementGuid>793132a0-26be-4fdf-9bc3-8bf31c9fbe81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-l2-190_1-b2-TitleWrapper']/div[2]</value>
+      <webElementGuid>3bb7d3d9-6d63-4786-9701-9c051bd5e960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>3db74c5d-1805-4132-aac4-7aa8a940c8bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[4]/td[3]/div/select</value>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[4]/td[3]/div/select</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>c2e9ead1-ee95-430e-8162-ce42d60cb938</webElementGuid>
+      <webElementGuid>6779e773-7550-4c62-a1a0-b297091076bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>7507dba9-b615-4497-a2de-3f19afcc5e58</webElementGuid>
+      <webElementGuid>fc0a56a0-749f-4ff0-9832-d85f2eedef7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>96170c20-91c0-4e55-9e06-a207d2b4f44d</webElementGuid>
+      <webElementGuid>56732d22-a81c-48b0-8897-2c41311ccbc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b8-l7_0-234_3-Kesesuaian3</value>
-      <webElementGuid>1f0aff62-a992-44fd-9b61-4c169f9e2a96</webElementGuid>
+      <webElementGuid>7dfb0a5c-b0f6-49e5-86e5-3f1e9ff01904</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih OpsiTepatTidak Tepat</value>
-      <webElementGuid>c71b282b-6762-4fa4-8484-bc486664775b</webElementGuid>
+      <webElementGuid>5bfb8108-22c0-4ef1-ae63-d50c06e80ee9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b8-l7_0-234_3-Kesesuaian3&quot;)</value>
-      <webElementGuid>2411a13a-9068-4f4a-9fbb-4ad9579831a6</webElementGuid>
+      <webElementGuid>4dbed136-be11-483b-914b-6599a18a967c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b3-b8-l7_0-234_3-Kesesuaian3']</value>
-      <webElementGuid>4a1e437f-d4aa-4dbe-a2a9-ef38612923ee</webElementGuid>
+      <webElementGuid>4b9df7ea-6f07-4d3f-9aea-46df61e3568f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b8-l7_0-234_3-Kesesuaian3-container']/select</value>
-      <webElementGuid>2681f5eb-e635-4ce6-adc7-89cd211573ce</webElementGuid>
+      <webElementGuid>6a9181ff-1e2a-42a0-aac8-18080667a12a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Kas Kecil CBU - Pelatihan'])[1]/following::select[2]</value>
-      <webElementGuid>67031bf9-5d5a-4b1c-932a-04afb299b774</webElementGuid>
+      <webElementGuid>6fb6497c-fe78-40d1-afba-6d9e1ec2ce22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[22]/following::select[2]</value>
-      <webElementGuid>20e1f7c0-9527-476e-b88d-76fd81db6c39</webElementGuid>
+      <webElementGuid>95b7f42c-c00a-4b58-9dae-8e1a1f2c6a86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[23]/preceding::select[2]</value>
-      <webElementGuid>c0bbefcd-e0bd-42b3-b905-cc7685943328</webElementGuid>
+      <webElementGuid>8056f033-46d7-41f2-a1b7-e14c5e1cb453</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Kas Kecil CBU - Utang Vendor'])[1]/preceding::select[2]</value>
-      <webElementGuid>4a4bec06-65a3-4be5-a113-7f7af295480b</webElementGuid>
+      <webElementGuid>3364e254-71cd-4611-8478-801171c326aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[4]/td[3]/div/select</value>
-      <webElementGuid>2ede725c-5db0-4732-ab2d-1f23915e0b98</webElementGuid>
+      <webElementGuid>4f1cd69b-34e9-4119-a352-435f7f1eb557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b3-b8-l7_0-234_3-Kesesuaian3' and (text() = 'Pilih OpsiTepatTidak Tepat' or . = 'Pilih OpsiTepatTidak Tepat')]</value>
-      <webElementGuid>a892690f-bc91-49e6-8758-61e1b0338b49</webElementGuid>
+      <webElementGuid>6df55647-b3eb-4831-a004-203a78f9ecdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

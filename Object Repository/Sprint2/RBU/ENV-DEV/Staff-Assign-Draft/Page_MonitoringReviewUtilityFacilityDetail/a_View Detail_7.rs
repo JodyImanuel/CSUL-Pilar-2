@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Detail_7</name>
+   <tag></tag>
+   <elementGuidId>45edc8ae-8865-451e-b5cb-3f6d8a850cc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[2]/div/div/div[4]/div/div[2]/div/div[2]/div[2]/table/tbody/tr[2]/td[13]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>56870bc7-827a-4360-8188-30e46e3774d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5e28c5da-5678-4b8d-8fcd-7c33bf32faf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Detail</value>
+      <webElementGuid>845dfea3-001a-4b4c-8d0f-8f7a8f422206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-l2-178_3-b2-Content&quot;)/div[2]/div[@class=&quot;overflow-x-scroll overflow-horizontal&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;table-row&quot;]/td[13]/div[@class=&quot;display-flex align-items-center&quot;]/a[1]</value>
+      <webElementGuid>3499e9a5-b07f-4111-8adf-5d7988d1900c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-l2-178_3-b2-Content']/div[2]/div[2]/table/tbody/tr[2]/td[13]/div/a</value>
+      <webElementGuid>22693d56-8e16-49b0-8cca-12b64dc518c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View Detail')])[12]</value>
+      <webElementGuid>5f23bb1f-9e0d-4d24-b739-da227ea5fba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[13]/following::a[1]</value>
+      <webElementGuid>894cc0d8-d83e-4d46-9e44-a534a55339ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[32]/following::a[1]</value>
+      <webElementGuid>3d4b05ce-cf74-4b99-b8be-edcb77e350d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Utilitas'])[2]/preceding::a[1]</value>
+      <webElementGuid>09e772d1-32d2-451c-8186-c4b965376e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilitas'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff3e588c-f07d-403d-8942-aab0af8f0bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[21]</value>
+      <webElementGuid>709d1fd1-f999-4af6-8093-a096a69fe591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]/div[2]/table/tbody/tr[2]/td[13]/div/a</value>
+      <webElementGuid>ce0f347a-5a6f-4d11-9c5c-ba1a5d8a96da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'View Detail' or . = 'View Detail')]</value>
+      <webElementGuid>eaa040bb-d476-4e01-b223-49dd2a0fd30a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

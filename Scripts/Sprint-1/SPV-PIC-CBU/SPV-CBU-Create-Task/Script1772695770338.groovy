@@ -42,15 +42,17 @@ WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Create-Task/Page_Pet
     '26-02-2022')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Create-Task/Page_PettyCash/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9'), 
-    '0', true)
+    '14', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Create-Task/Page_PettyCash/select_Pilih OpsiIQBAL PUTRA TAWAKALGIANDI _5675aa'), 
     '0', true)
 
+WebUI.selectOptionByValue(findTestObject('Sprint1/SPV-Create-Task/Page_PettyCash/select_Tipe_Tugas'), '1', true)
+
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Create-Task/Page_PettyCash/button_Tambah_1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Create-Task/Page_PettyCash/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9_1'), 
-    '0', true)
+    '14', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Create-Task/Page_PettyCash/button_Cari'))
 

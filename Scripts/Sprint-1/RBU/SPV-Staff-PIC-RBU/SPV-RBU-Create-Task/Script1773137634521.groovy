@@ -19,6 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Sprint-1/RBU/Login-RBU/Login-SPV-RBU'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForElementVisible(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'), 
+    10)
+
 WebUI.doubleClick(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'))
 
 WebUI.click(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_Dashboard/div_Monitoring  Review'))
@@ -30,21 +33,23 @@ WebUI.click(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_D
 WebUI.verifyElementPresent(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/span_PEMERIKSAAN PETTY CASH KANTOR CABANG'), 
     10)
 
-WebUI.click(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/button_Tambah'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/button_Tambah'))
 
-WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/input_Tanggal Claim_b3-b2-b4-StartDate'), 
-    '16-03-2022')
+not_run: WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/input_Tanggal Claim_b3-b2-b4-StartDate'), 
+    '16-02-2024')
 
-WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/input_Tanggal Claim_b3-b2-b4-EndDate'), 
-    '18-03-2022')
+not_run: WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/input_Tanggal Claim_b3-b2-b4-EndDate'), 
+    '16-02-2024')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/select_Pilih OpsiBANDUNG ABU 1SURABAYA ABU _aaf35c'), 
-    '3', true)
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/select_Pilih OpsiBANDUNG ABU 1SURABAYA ABU _aaf35c'), 
+    '4', true)
 
-WebUI.click(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/button_Tambah_1'))
+not_run: WebUI.selectOptionByValue(findTestObject('Sprint1/SPV-Create-Task/Page_PettyCash/select_Tipe_Tugas'), '1', true)
+
+not_run: WebUI.click(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/button_Tambah_1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/select_Pilih OpsiBANDUNG ABU 1SURABAYA ABU _aaf35c_1'), 
-    '3', true)
+    '4', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_PettyCash/select_Select StatusBaruPenugasanDalam Pros_c89740'), 
     '0', true)

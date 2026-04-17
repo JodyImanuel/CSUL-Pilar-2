@@ -6,12 +6,12 @@
    <elementGuidId>7226f2bc-97a3-460a-a583-c7942f76966a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div/div/div/div/div/div[2]/div/div[2]/span/label/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b3-b3-b6-b11-dropzone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div/div[2]/div/div[2]/span/label/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9ecaa10e-69e4-4157-97e1-23c3acc52308</webElementGuid>
+      <webElementGuid>fe563dfa-ee94-4427-a8d3-3e49c1b8f8e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>upload-box-file drop-zone </value>
-      <webElementGuid>d92e8cfa-84ce-49ce-b05f-50af8e1fc7df</webElementGuid>
+      <webElementGuid>5937bfab-aa42-4201-9faf-0827e078baf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b6-b11-dropzone</value>
-      <webElementGuid>5cbf63db-372c-405d-a99e-b51df721168c</webElementGuid>
+      <webElementGuid>d56e72a9-86fc-403f-bc70-dd9d6aae165d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Drag &amp; drop files or BrowseSupported formats : jpeg,jpg,png,pdf,xlsx,xls,docx,doc,ppt,pptxSelect file</value>
-      <webElementGuid>375a52e8-e8df-48c7-b76f-7609a4cad73d</webElementGuid>
+      <webElementGuid>9e46fc55-d7ab-4371-9293-c55dd4745990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b6-b11-dropzone&quot;)</value>
-      <webElementGuid>535bfcde-71e9-4efc-b8a4-7f8f8af8d3b0</webElementGuid>
+      <webElementGuid>32d1b26e-b61a-44b0-8a86-defaaf1fa21f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b6-b11-dropzone']</value>
-      <webElementGuid>7dfb60b9-7550-47b8-951d-210c9f5c846c</webElementGuid>
+      <webElementGuid>face2868-7bd6-48a4-800f-09d1637b95d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b6-$b11']/div[2]/div</value>
-      <webElementGuid>f987a671-8867-47b5-9bef-147da2138a7f</webElementGuid>
+      <webElementGuid>2ab2a344-141a-426b-8230-1e19374a7605</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Dokumen'])[1]/following::div[2]</value>
-      <webElementGuid>d4f0cbf3-d2cd-4b35-bb69-96e93f47ad97</webElementGuid>
+      <webElementGuid>b221eb21-9351-4821-8d3a-53fd382b684d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div[2]/div</value>
-      <webElementGuid>b51cf4dc-207c-410a-b213-f37e9dfa036f</webElementGuid>
+      <webElementGuid>5357f5f2-5218-4c0c-81ef-30a65b76f585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'b3-b3-b6-b11-dropzone' and (text() = 'Drag &amp; drop files or BrowseSupported formats : jpeg,jpg,png,pdf,xlsx,xls,docx,doc,ppt,pptxSelect file' or . = 'Drag &amp; drop files or BrowseSupported formats : jpeg,jpg,png,pdf,xlsx,xls,docx,doc,ppt,pptxSelect file')]</value>
-      <webElementGuid>5c703bd5-d2d3-417a-aae7-84a9c0255aab</webElementGuid>
+      <webElementGuid>49670c8e-f514-4855-a8d6-ae461b2d0df2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

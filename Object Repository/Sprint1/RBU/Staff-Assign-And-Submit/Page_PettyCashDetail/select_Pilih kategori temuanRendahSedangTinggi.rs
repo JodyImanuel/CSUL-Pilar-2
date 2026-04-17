@@ -6,12 +6,12 @@
    <elementGuidId>5b92af26-41ce-4577-ad57-157ab3c1f793</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[4]/div/div/div[2]/div/div/div[1]/div/div[6]/div/div/div[2]/div/div/div/select</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b3-b4-b8-b8-KategoriTemuanDropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[4]/div/div/div[2]/div/div/div[1]/div/div[6]/div/div/div[2]/div/div/div/select</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>82702b51-c9e6-47ce-b5d9-47cb25025347</webElementGuid>
+      <webElementGuid>ae69ed4a-de83-468c-895f-c168c542c716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>890c00d4-a3b4-4dd5-a75e-587615eaf67e</webElementGuid>
+      <webElementGuid>bb103f13-bb70-4ee1-aed6-6f18559cc3ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>24286513-53c4-406a-ba0f-4eec076a7962</webElementGuid>
+      <webElementGuid>9bbc156c-588b-4a26-ac60-fdd9194548fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b4-b8-b8-KategoriTemuanDropdown</value>
-      <webElementGuid>bb7d2f18-b1c6-48d7-9ff8-6ac9d586a1bb</webElementGuid>
+      <webElementGuid>eeac218e-f354-4a27-b9c5-cb4c2972cef6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih kategori temuanRendahSedangTinggi</value>
-      <webElementGuid>dd1c5743-7b9d-4189-ba82-be2018c514d6</webElementGuid>
+      <webElementGuid>6f242e58-2820-4dcf-a6ea-d55b1a46b6da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b8-b8-KategoriTemuanDropdown&quot;)</value>
-      <webElementGuid>2421aadc-38c3-4d95-a83a-4d20957412f5</webElementGuid>
+      <webElementGuid>12032db7-f9f8-4f29-9f3e-2f2a9cf834b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b4-b8-b8-KategoriTemuanDropdown']</value>
-      <webElementGuid>03866b8c-2def-4027-9e56-de3bb3ae4fe3</webElementGuid>
+      <webElementGuid>3cbbeb8f-0c58-4d0e-b750-d9a5bc3ad415</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b8-b8-KategoriTemuanDropdown-container']/select</value>
-      <webElementGuid>c405998d-b4d7-4b6f-a1f4-9c743cceeb84</webElementGuid>
+      <webElementGuid>857db79f-6891-4c28-abf6-aa9b2a25c8bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[10]/following::select[1]</value>
-      <webElementGuid>b241be65-f280-4645-a2c8-955e9804f81a</webElementGuid>
+      <webElementGuid>6a008a68-ea35-4e40-8571-b435ad74f702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Temuan'])[4]/following::select[1]</value>
-      <webElementGuid>d39b4311-6385-4df1-bdee-54772e40d6e6</webElementGuid>
+      <webElementGuid>a67f6ecf-4df2-4526-8a18-9d606ea84a22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan'])[4]/preceding::select[1]</value>
-      <webElementGuid>6529f847-b153-430b-a169-a287a3087770</webElementGuid>
+      <webElementGuid>64fc2ba8-1195-4a41-9912-26416ac412a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[11]/preceding::select[1]</value>
-      <webElementGuid>f4f53a06-3e42-4b82-92cf-1c2d5e311d67</webElementGuid>
+      <webElementGuid>ba0ecddd-a162-4171-8733-68a6c3db265f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/select</value>
-      <webElementGuid>7633a6d8-acd5-4026-8f6d-2cbde2de9512</webElementGuid>
+      <webElementGuid>d65f4a35-41ef-4a05-808f-ea41ae0bed0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b4-b8-b8-KategoriTemuanDropdown' and (text() = 'Pilih kategori temuanRendahSedangTinggi' or . = 'Pilih kategori temuanRendahSedangTinggi')]</value>
-      <webElementGuid>01bb1245-42bf-4de7-a716-0a199fff5d4f</webElementGuid>
+      <webElementGuid>231e7ee9-654c-40f4-b577-e8c1025c9fb4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

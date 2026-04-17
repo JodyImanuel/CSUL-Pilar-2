@@ -19,6 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Sprint-1/Login-CBU/Login-SPV-CBU'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'), 
+    10)
+
 WebUI.doubleClick(findTestObject('Object Repository/Sprint1/RBU/SPV-Create-Task/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'))
 
 WebUI.click(findTestObject('Object Repository/Sprint2/RBU/SPV-RBU-Create-Task/Page_Dashboard/div_Monitoring  Review'))
@@ -27,10 +30,13 @@ WebUI.click(findTestObject('Object Repository/Sprint2/RBU/SPV-RBU-Create-Task/Pa
 
 WebUI.click(findTestObject('Object Repository/Sprint2/RBU/SPV-RBU-Create-Task/Page_Dashboard/a_Utilitas  Fasilitas Kantor'))
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Sprint2/CBU/SPV-CBU-Create-Task/Page_MonitoringReviewUtilityFacility/button_Assign'), 
+    10)
+
 WebUI.click(findTestObject('Object Repository/Sprint2/CBU/SPV-CBU-Create-Task/Page_MonitoringReviewUtilityFacility/button_Assign'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/SPV-CBU-Create-Task/Page_MonitoringReviewUtilityFacility/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9'), 
-    '0', true)
+    '14', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/SPV-CBU-Create-Task/Page_MonitoringReviewUtilityFacility/select_Pilih OpsiIQBAL PUTRA TAWAKALGIANDI _5675aa'), 
     '0', true)
@@ -41,7 +47,7 @@ not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU
 WebUI.click(findTestObject('Object Repository/Sprint2/CBU/SPV-CBU-Create-Task/Page_MonitoringReviewUtilityFacility/button_Assign_1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/SPV-CBU-Create-Task/Page_MonitoringReviewUtilityFacility/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9_1'), 
-    '0', true)
+    '14', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint2/CBU/SPV-CBU-Create-Task/Page_MonitoringReviewUtilityFacility/button_Cari'))
 

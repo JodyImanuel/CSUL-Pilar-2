@@ -6,12 +6,12 @@
    <elementGuidId>9d3c2a8f-3553-4055-a8f4-2d70e63cd139</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div[3]/div/div/div/a/div[1]/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b5-Content > div.list.list-group.OSFillParent > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div[3]/div/div/div/a/div[1]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>44a62567-fb0c-4e02-89d7-31910cbfb6cd</webElementGuid>
+      <webElementGuid>b79453fc-5a64-47c3-af59-75d4337601ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Risk Control Unit ApplicationRCU Apps covers 4 pillars of CSULFinance business.  Acquisition, Branch Operation, Asset Management, Collection &amp; Recovery</value>
-      <webElementGuid>4346562b-a3b0-4b7f-9480-fbd994ff6483</webElementGuid>
+      <webElementGuid>af573eff-8792-406c-9f69-d3543aa1fc4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +39,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b5-Content&quot;)/div[@class=&quot;list list-group OSFillParent&quot;]/div[1]</value>
-      <webElementGuid>ecf65f06-9ec9-41b5-b033-9923ab42b57f</webElementGuid>
+      <webElementGuid>f8173595-bf1b-41f7-9a56-17f5fd60b052</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b5-Content']/div/div</value>
-      <webElementGuid>bf99ee7a-0076-4f23-beb5-afd222eb1dce</webElementGuid>
+      <webElementGuid>03b397af-76c1-4bff-b302-07d54ed81ac3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select an application that you wanted to access'])[1]/following::div[7]</value>
-      <webElementGuid>85b9e55a-fc9d-4f2c-8a8c-132f6c5eeae9</webElementGuid>
+      <webElementGuid>a8188e07-7370-4694-82e7-5007d889cb23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ops Risk RBU Staff'])[1]/following::div[20]</value>
-      <webElementGuid>67c2c885-2ba8-4c76-93cf-4563a2a3f1f9</webElementGuid>
+      <webElementGuid>eb05d57c-890e-4f57-a12e-189ce92d061f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/preceding::div[4]</value>
-      <webElementGuid>f81ba52e-c5b3-4263-b2b5-198d5bf62621</webElementGuid>
+      <webElementGuid>c4d30806-4292-4473-a1c6-b68eaee72d09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[3]/div/div/div</value>
-      <webElementGuid>37f2c82b-b6f3-4a01-a373-19e3473c511e</webElementGuid>
+      <webElementGuid>73956d45-f1b6-4c80-a9d2-d38525175f56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Risk Control Unit ApplicationRCU Apps covers 4 pillars of CSULFinance business.  Acquisition, Branch Operation, Asset Management, Collection &amp; Recovery' or . = 'Risk Control Unit ApplicationRCU Apps covers 4 pillars of CSULFinance business.  Acquisition, Branch Operation, Asset Management, Collection &amp; Recovery')]</value>
-      <webElementGuid>1f0d8e73-ae64-4cad-84e2-366b90870c42</webElementGuid>
+      <webElementGuid>224cf807-fe58-40de-b174-e4c7aee247b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

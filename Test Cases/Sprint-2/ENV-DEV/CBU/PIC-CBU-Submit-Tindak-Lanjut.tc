@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PIC-CBU-Submit-Tindak-Lanjut</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f76118af-9233-478b-aa0c-fe67dc940d11</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3badea38-bdd9-4929-92f7-40a0fc0b0d84</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum1.pdf'</defaultValue>
+      <description></description>
+      <id>3badea38-bdd9-4929-92f7-40a0fc0b0d84</id>
+      <masked>false</masked>
+      <name>Lorem1</name>
+   </variable>
+</TestCaseEntity>

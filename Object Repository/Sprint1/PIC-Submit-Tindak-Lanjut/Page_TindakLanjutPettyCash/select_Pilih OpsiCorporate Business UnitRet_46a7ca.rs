@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>e97a62c8-06fa-4140-84a4-c28749bf22fb</webElementGuid>
+      <webElementGuid>daf92bef-e10b-4937-b685-ffc6657550ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>53ff0f24-2e2a-4539-95e1-0a8c18b196b6</webElementGuid>
+      <webElementGuid>7e1facb3-02fd-4016-b544-4a50185dd8f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>64a514fb-b019-4ddc-96e1-3e93b177422c</webElementGuid>
+      <webElementGuid>60529fe7-f7ec-4852-a746-846280872bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b1-DropdownBisnisUnit</value>
-      <webElementGuid>0562a410-85b3-401c-a67f-20a3aa9bd534</webElementGuid>
+      <webElementGuid>527df6ab-7faa-4ffc-97c5-776f39e7d399</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih OpsiCorporate Business UnitRetail Business Unit</value>
-      <webElementGuid>97a374b8-5494-476f-a917-e9ca0da916ed</webElementGuid>
+      <webElementGuid>8bbf89ef-2353-4b13-89ad-6a672743e76f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b1-DropdownBisnisUnit&quot;)</value>
-      <webElementGuid>c3cdce83-9a14-464d-9d56-a122e28a0dad</webElementGuid>
+      <webElementGuid>0f49e88b-ea3e-4534-b535-55e34addb96e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b3-b1-DropdownBisnisUnit']</value>
-      <webElementGuid>e898b426-59cc-46f6-8f58-8ae837f7ba4c</webElementGuid>
+      <webElementGuid>bd81387d-5b30-4ba1-9622-8585af039e86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b1-DropdownBisnisUnit-container']/select</value>
-      <webElementGuid>a14b3490-fb9e-4b6f-a2a6-35d1e64c1601</webElementGuid>
+      <webElementGuid>2e57b036-5058-44c1-a1fd-41099390df3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::select[1]</value>
-      <webElementGuid>273fca36-9c8c-491f-a5fb-9481e6a1a372</webElementGuid>
+      <webElementGuid>0760d275-d663-4d88-9fa4-0cc3073529d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bisnis Unit'])[1]/following::select[1]</value>
-      <webElementGuid>40d5ce61-3286-4972-a946-3138946b55db</webElementGuid>
+      <webElementGuid>866e3851-1d0f-4f54-a23e-cc8b352dd2aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[1]/preceding::select[1]</value>
-      <webElementGuid>9cceb828-61e0-4379-958b-0a7f99d044ae</webElementGuid>
+      <webElementGuid>b2ddb90a-1990-4ab7-a4da-1afa236e2aed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/preceding::select[1]</value>
-      <webElementGuid>b5e6f9de-b3d5-4051-a8a1-ba42bb636d59</webElementGuid>
+      <webElementGuid>7594782e-2027-41e3-a4c7-a393314efa29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>3029d971-028f-403f-90f7-8f2eb42c7e2b</webElementGuid>
+      <webElementGuid>cac355b5-4d41-4809-9b7b-70e8dfd582bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b3-b1-DropdownBisnisUnit' and (text() = 'Pilih OpsiCorporate Business UnitRetail Business Unit' or . = 'Pilih OpsiCorporate Business UnitRetail Business Unit')]</value>
-      <webElementGuid>b6f23fd7-7350-4cb0-9338-0976616b1c68</webElementGuid>
+      <webElementGuid>023f936e-06e5-40c6-8187-add956cc353f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

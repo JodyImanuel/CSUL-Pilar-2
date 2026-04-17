@@ -12,18 +12,25 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>9d7e5ee7-147d-4335-8601-42b54deb283b</testSuiteGuid>
    <testCaseLink>
-      <guid>2616f0ac-3ac3-419d-a413-638de03489ac</guid>
+      <guid>c626deb8-51ae-4472-b20e-9cfc28cfb7eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/SPV-CBU-Create-Task</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4b9ff08f-8a71-4acd-9b8b-feee847f8370</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/SPV-CBU-Assign-Staff</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>dc1eedad-f81b-4219-a845-03c96a78ff32</guid>
+      <guid>6036b782-61ff-4e99-b638-955e2a752a8c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/Staff-CBU-Assign-And-Draft</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -44,11 +51,11 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>2c714306-c791-4312-89e9-5048512925cc</guid>
+      <guid>f7e97ea1-a475-43ff-bed6-d64be87fffa8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/Staff-CBU-Assign-And-Submit</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -63,25 +70,25 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>98df2427-70c5-4cb8-b390-6a47961b3fe1</guid>
+      <guid>d13eded0-79d5-4fe7-861b-0868d31fa3e2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/SPV-CBU-Persetujuan</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>95fd9cc4-0496-4445-bc2d-19a7a0a6978d</guid>
+      <guid>63d103c5-4ced-456b-a74e-16b3198d902c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/SPV-CBU-Assign-PIC</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>55795857-757e-45d9-9b74-778d152158de</guid>
+      <guid>66da98d9-93c4-4936-a883-fc0691c72229</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/CBU-PIC-Submit-Tindak-Lanjut</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -96,10 +103,10 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b210e066-0b9f-4125-9456-817872f6cb20</guid>
+      <guid>c6457218-7c2f-43e8-8efa-c28d49538e4d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sprint-1/SPV-PIC-CBU/SPV-Submit-Tindak-Lanjut</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

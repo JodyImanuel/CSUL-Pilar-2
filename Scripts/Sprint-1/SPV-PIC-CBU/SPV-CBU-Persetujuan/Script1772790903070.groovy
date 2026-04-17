@@ -24,20 +24,26 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Sprint1/SPV-Perset
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'))
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_Dashboard/div_Persetujuan'), 
+    10)
+
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_Dashboard/div_Persetujuan'))
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_Dashboard/div_Operasional Cabang_osui-submenu__header__icon'))
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_Dashboard/a_Petty Cash'))
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/input__b3-b1-b1-StartDate'), 
+    10)
+
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/input__b3-b1-b1-StartDate'), 
-    '13-03-2026')
+    '14-04-2026')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/input__b3-b1-b1-EndDate'), 
-    '13-03-2026')
+    '14-04-2026')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/select_Select BranchBANJARMASINJAKARTA 1 SY_b47ff5'), 
-    '8', true)
+    '14', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Persetujuan/Page_PersetujuanPettyCash/select_Search ByMenunggu PersetujuanDisetuj_d33d04'), 
     '0', true)

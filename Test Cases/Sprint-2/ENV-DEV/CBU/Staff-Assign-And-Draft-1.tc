@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Staff-Assign-And-Draft-1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da7c95b9-4aa1-4e23-8935-a4919e7a2078</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2d98ce2-701e-407a-aa0d-34c611f36a2d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum1.pdf'</defaultValue>
+      <description></description>
+      <id>d2d98ce2-701e-407a-aa0d-34c611f36a2d</id>
+      <masked>false</masked>
+      <name>Lorem1</name>
+   </variable>
+</TestCaseEntity>

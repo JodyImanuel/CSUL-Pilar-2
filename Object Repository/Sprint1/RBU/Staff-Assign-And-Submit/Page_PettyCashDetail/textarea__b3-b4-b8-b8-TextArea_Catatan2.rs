@@ -6,12 +6,12 @@
    <elementGuidId>cf12da89-58d8-4ee1-b56e-18f16f553a29</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[4]/div/div/div[2]/div/div/div[1]/div/div[7]/div/div/div[2]/div/span/textarea</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b3-b4-b8-b8-TextArea_Catatan2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[4]/div/div/div[2]/div/div/div[1]/div/div[7]/div/div/div[2]/div/span/textarea</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>77e860b2-82a1-489e-b8e8-51c3c5835697</webElementGuid>
+      <webElementGuid>35504153-19db-4af5-bae9-49455cf9ca2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-area-custom</value>
-      <webElementGuid>ecaa158f-4e64-453f-96a1-165d732f1e90</webElementGuid>
+      <webElementGuid>79143219-e23f-42e8-8ded-a1ddbcca86ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>70f5506c-269e-4868-9ad5-641cb77af26a</webElementGuid>
+      <webElementGuid>198f3cc8-c428-4b6c-94f1-11f92d38e965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>500</value>
-      <webElementGuid>97d4ff21-0e16-434f-a339-41e40f8104ef</webElementGuid>
+      <webElementGuid>46aa36fd-9d54-404c-8e79-d0cbb8f6feea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b4-b8-b8-TextArea_Catatan2</value>
-      <webElementGuid>07caf3a0-49a7-4dcc-86cd-e540f18cf300</webElementGuid>
+      <webElementGuid>0866fb43-7efd-4f8d-9b9c-cdeb7b2aee1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b8-b8-TextArea_Catatan2&quot;)</value>
-      <webElementGuid>ed1df6e9-bbfa-40de-99d9-cb02f1a0ac87</webElementGuid>
+      <webElementGuid>58655b1f-3c6d-421e-b9db-ef81d797fbca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='b3-b4-b8-b8-TextArea_Catatan2']</value>
-      <webElementGuid>5e9d2c4e-a855-480e-b1ba-c5b292321925</webElementGuid>
+      <webElementGuid>07681e9b-568a-4c50-a8b2-dc339f0e7d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b8-b8-b20-Column2']/div/span/textarea</value>
-      <webElementGuid>aa96ee52-39fb-49d7-b486-7e89bf57146d</webElementGuid>
+      <webElementGuid>53ad9bcd-307d-4834-af1a-7087c7fee82f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/span/textarea</value>
-      <webElementGuid>b83978ee-071f-4cd2-b713-88114a9b68e0</webElementGuid>
+      <webElementGuid>0c39d8e1-5238-43cc-b004-57d0c0b626f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'b3-b4-b8-b8-TextArea_Catatan2']</value>
-      <webElementGuid>eeac5f05-9735-4a59-8acf-3669afa346b1</webElementGuid>
+      <webElementGuid>09cd9fa6-9641-48a3-92e7-1aa5ebe0edac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

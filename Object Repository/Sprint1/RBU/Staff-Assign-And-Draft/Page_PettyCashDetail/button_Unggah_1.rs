@@ -6,12 +6,12 @@
    <elementGuidId>565d753f-2f8a-4f53-a294-752a79fbc327</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div/div/div/div/div/div[4]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary.shadow-m.upload-file-button.background-green-dark.ThemeGrid_Width2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div/div[4]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4ac2298b-3628-44dc-8e61-f0f16bc09132</webElementGuid>
+      <webElementGuid>2ffb5d2a-c308-4eb5-b17d-4617216b06d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary shadow-m upload-file-button background-green-dark ThemeGrid_Width2</value>
-      <webElementGuid>afdbb174-5ec3-4b75-b422-b1fbb2f6c883</webElementGuid>
+      <webElementGuid>a0f9de16-0153-442b-b6a0-f4f347db9f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fdc68ff6-d428-4780-bf0e-e6403ffcc551</webElementGuid>
+      <webElementGuid>b7667ee8-432e-4c3e-b549-5a89ad1b31fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Unggah</value>
-      <webElementGuid>4b100f45-e3b3-4e1c-a88f-09592e7d5e35</webElementGuid>
+      <webElementGuid>53733c35-f4e7-4de8-b700-dd05e6ebfa0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b6-$b11&quot;)/div[@class=&quot;margin-top-m&quot;]/button[@class=&quot;btn btn-primary shadow-m upload-file-button background-green-dark ThemeGrid_Width2&quot;]</value>
-      <webElementGuid>4771c11d-a52b-44c2-94c9-a0bd44f3c73a</webElementGuid>
+      <webElementGuid>5b57adb2-7fb3-479d-89ee-23e9cc8f683e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[28]</value>
-      <webElementGuid>f1f81481-3b8d-4383-a9fa-4e27b6b7af92</webElementGuid>
+      <webElementGuid>8bd653fc-9429-48a4-a4dc-a2083c770a6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b6-$b11']/div[4]/button</value>
-      <webElementGuid>40228e1d-ff85-4846-8dc3-7ff9fe66028c</webElementGuid>
+      <webElementGuid>36628f7b-a52e-4929-bd17-04b297717d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='loremipsum1.pdf'])[2]/following::button[1]</value>
-      <webElementGuid>cacb5d46-bc5a-4a83-b437-83f2b082d85b</webElementGuid>
+      <webElementGuid>0f34cf26-9a02-470f-9696-4fae3256b6b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Date'])[1]/following::button[1]</value>
-      <webElementGuid>c0bcd3a9-7dbb-4c90-a769-0e469ed4d323</webElementGuid>
+      <webElementGuid>e32d94d3-b2af-46c4-b93e-68448982e117</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>e43b5ab1-7150-47c5-9343-df1386e237d0</webElementGuid>
+      <webElementGuid>75afe391-e2e6-4f14-b834-e1e314eeae54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Unggah' or . = 'Unggah')]</value>
-      <webElementGuid>c4219790-e3b2-4b91-83b2-befd430112a5</webElementGuid>
+      <webElementGuid>5517eb46-be00-4354-a7a6-cba95e7302fe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

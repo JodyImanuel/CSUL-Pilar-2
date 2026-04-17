@@ -24,6 +24,9 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Sprint1/SPV-Assign
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'))
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashboard/div_Tindak Lanjut'), 
+    10)
+
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashboard/div_Tindak Lanjut'))
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashboard/div_Operasional Cabang'))
@@ -31,13 +34,13 @@ WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashbo
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Assign-PIC/Page_Dashboard/a_Petty Cash'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/input__b3-b1-b1-StartDate'), 
-    '13-03-2026')
+    '14-04-2026')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/SPV-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/input__b3-b1-b1-EndDate'), 
-    '13-03-2026')
+    '14-04-2026')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/SPV-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9'), 
-    '0', true)
+    '14', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/SPV-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/button_Cari'))
 

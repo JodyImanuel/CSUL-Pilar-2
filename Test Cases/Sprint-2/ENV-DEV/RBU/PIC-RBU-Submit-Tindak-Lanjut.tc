@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PIC-RBU-Submit-Tindak-Lanjut</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f356a7e9-bacd-4cb9-ba38-f4e431b3ed3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0cb3ab6f-9455-4445-9656-6d49d61415b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62463197-85e6-43ab-a276-d75aa3e2e637</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum1.pdf'</defaultValue>
+      <description></description>
+      <id>0cb3ab6f-9455-4445-9656-6d49d61415b8</id>
+      <masked>false</masked>
+      <name>Lorem1</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum2.pdf'</defaultValue>
+      <description></description>
+      <id>62463197-85e6-43ab-a276-d75aa3e2e637</id>
+      <masked>false</masked>
+      <name>Lorem2</name>
+   </variable>
+</TestCaseEntity>

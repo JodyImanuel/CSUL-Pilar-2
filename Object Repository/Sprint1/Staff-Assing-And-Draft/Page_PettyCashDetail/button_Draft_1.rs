@@ -6,12 +6,12 @@
    <elementGuidId>510162e3-3b96-4ea9-aadd-2bf9266a41fb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[2]/div/div/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b3-b3-b9-Button > button.btn.btn-orange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[2]/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>31a0f5f0-c434-4286-9139-a89ee160089f</webElementGuid>
+      <webElementGuid>ef368afb-9310-4936-b4c3-8d5934cb06ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-orange</value>
-      <webElementGuid>b5a67a80-844c-4b2f-8bd7-39a337dbddbc</webElementGuid>
+      <webElementGuid>316f5e9a-b35e-4301-a71e-781e28285067</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>398b5aa0-a292-4214-b8b0-95a81a8e095d</webElementGuid>
+      <webElementGuid>30a0d177-7cd9-45dc-b092-d96486931e86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Draft</value>
-      <webElementGuid>964dd345-c1f7-4933-8bc4-30c51b2050f6</webElementGuid>
+      <webElementGuid>92db2553-74e5-4680-813e-8403ae778cfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b9-Button&quot;)/button[@class=&quot;btn btn-orange&quot;]</value>
-      <webElementGuid>e6a8fb44-7443-4ebd-b164-c5c8622811c7</webElementGuid>
+      <webElementGuid>81115cc3-5508-4aae-af93-210a7c05f13b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[32]</value>
-      <webElementGuid>f8ba77c5-586f-495d-ae21-16f8ce5775db</webElementGuid>
+      <webElementGuid>5c5f83b4-022d-4c6a-b9b5-6bf3f8ff7158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b9-Button']/button</value>
-      <webElementGuid>61e299cb-4537-4a46-a13f-564b149e9c7e</webElementGuid>
+      <webElementGuid>3b7d672b-88b9-4a64-bc3b-8968ae0c5229</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[24]/following::button[1]</value>
-      <webElementGuid>60c4b818-6286-4485-905f-0d2514ff8719</webElementGuid>
+      <webElementGuid>fa9e4ada-9ee7-4283-a773-df6d6cf13f3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Kas Kecil CBU - Utang Vendor'])[1]/following::button[2]</value>
-      <webElementGuid>9b00d08a-ce57-49d9-a151-8d69de174f04</webElementGuid>
+      <webElementGuid>ea502a49-b38b-4c9f-814a-7d19f9137c6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
-      <webElementGuid>dca7ef97-9670-47e0-b1a5-4150f53cfc65</webElementGuid>
+      <webElementGuid>984742d2-cd97-4470-95d8-cfbc2cf6ca45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/preceding::button[2]</value>
-      <webElementGuid>c4bbc271-c90f-4bcd-8eea-0ed02b2ab051</webElementGuid>
+      <webElementGuid>d7b811cd-ddd6-4c83-ac87-a81091f445d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Draft']/parent::*</value>
-      <webElementGuid>03545cd8-08be-4e19-b6a2-940df2a53f0a</webElementGuid>
+      <webElementGuid>4ab25816-ec0b-4e92-92e7-ea8c3dd9ff4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button</value>
-      <webElementGuid>335cb220-8261-4460-8007-8ae02e62075f</webElementGuid>
+      <webElementGuid>a8c6c07e-5e92-4121-add6-2983ff2279cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Draft' or . = 'Draft')]</value>
-      <webElementGuid>b577b8a0-d670-40fc-9858-3d2fb5508432</webElementGuid>
+      <webElementGuid>c5ab9de2-d766-4955-82cb-5e48151ba4c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

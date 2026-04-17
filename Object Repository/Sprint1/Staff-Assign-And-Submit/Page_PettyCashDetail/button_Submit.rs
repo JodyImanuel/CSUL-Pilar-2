@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[2]/button</value>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[2]/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>77bf3e68-2d8d-4cc6-9969-b9321514c270</webElementGuid>
+      <webElementGuid>0adb20dc-ba00-4cde-a6d2-e6ece4ec3729</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary ThemeGrid_MarginGutter</value>
-      <webElementGuid>87c6821d-8ebf-4cf1-b7e0-0e4575355f86</webElementGuid>
+      <webElementGuid>ab9ad51d-825c-4c8f-9720-623b9ed965e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e1ef9389-bb82-4114-8738-e484bcdbcd06</webElementGuid>
+      <webElementGuid>49a7148a-a8f9-4d61-b3dc-6402af632612</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>5cd5ae66-387c-4a20-a3e1-517e1b3097c4</webElementGuid>
+      <webElementGuid>d195b562-cc04-4c77-bf32-79abad0ccf12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-$b3&quot;)/div[@class=&quot;margin-top-m&quot;]/div[@class=&quot;text-align-right&quot;]/button[@class=&quot;btn btn-primary ThemeGrid_MarginGutter&quot;]</value>
-      <webElementGuid>979fdf72-2918-4f1a-a765-1c3b13001941</webElementGuid>
+      <webElementGuid>5ce2cabd-3cf7-4e2f-9e58-d5e165d7b422</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[32]</value>
-      <webElementGuid>43332104-f3fc-4ef6-8919-f7809dba21ae</webElementGuid>
+      <webElementGuid>7452a900-3f87-478c-96c9-5fb435dc5dfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-$b3']/div[3]/div[2]/button</value>
-      <webElementGuid>b49b36fd-527d-4860-86ad-542cd1abc336</webElementGuid>
+      <webElementGuid>174d0949-893e-4350-814c-dc9837027e79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/following::button[1]</value>
-      <webElementGuid>ea929e4a-5395-48f9-9c53-1f6aeb77a0a2</webElementGuid>
+      <webElementGuid>a180d9b4-8071-4bb5-8762-c04daa730dea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[24]/following::button[2]</value>
-      <webElementGuid>3c6bb4a2-8292-498a-9746-394f83b531aa</webElementGuid>
+      <webElementGuid>3be6e906-c086-447f-a27c-12a4d4cdaf6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/preceding::button[1]</value>
-      <webElementGuid>871f4ee0-06c7-4036-9085-7386baef4f81</webElementGuid>
+      <webElementGuid>a3e59606-e96b-48ec-acaa-05c468c6148d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Development CSULFinance'])[1]/preceding::button[1]</value>
-      <webElementGuid>c983a9ab-7bc1-4b65-8adb-9a00e1aa58b8</webElementGuid>
+      <webElementGuid>a47d4dfd-3870-44e0-9cae-a574287b58ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
-      <webElementGuid>ff9dddf5-a76b-44f6-86df-3ae5e2a33a39</webElementGuid>
+      <webElementGuid>1bbcf026-13cd-4e2f-a246-70ac92ff4d6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>9c401cf8-2466-472b-a927-84d94c8e5109</webElementGuid>
+      <webElementGuid>f5fce489-6e6b-48c7-b5c6-f1281c24c5d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>ada27e4d-e53c-4b7c-804b-4682ed1bce5d</webElementGuid>
+      <webElementGuid>7d300aef-e9e4-424b-a48b-cac8dea3b1c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Setelah PIC melakukan tindak lanjut, SPV melakukan submit tindak lanjut</description>
+   <name>SPV-RBU-Submit-Tindak-Lanjut</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>592f1fed-5969-460b-a2d6-0f7ebf01624c</testCaseGuid>
+</TestCaseEntity>

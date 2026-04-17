@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[5]/td[2]/div/select</value>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[11]/td[2]/div/select</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>2c5a3cf0-fa2d-4186-b981-c0d87113370b</webElementGuid>
+      <webElementGuid>7bac5818-ea78-4c21-8b43-e5dbc6bb076b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>6c8db810-2b2e-4d61-bbb0-0637d426a68a</webElementGuid>
+      <webElementGuid>5fde96b3-1ef2-4936-aa60-15d77386e52a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5c6f8715-8e54-4dee-aacb-086920a6710f</webElementGuid>
+      <webElementGuid>3e5a1ec7-9d35-444e-ba33-ee4e4dae8698</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b6-l8_0-184_4-Kesesuaian2</value>
-      <webElementGuid>eaf73c7d-3292-411f-a9f2-3c220afbaf10</webElementGuid>
+      <webElementGuid>c57fba86-ae14-4d32-a2f9-24e435611279</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih OpsiAdaTidak Ada</value>
-      <webElementGuid>3579d939-16a3-42ef-b047-9694ebbaf52e</webElementGuid>
+      <webElementGuid>af6cfa10-dabc-4c44-a566-14eaf1bf46c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b6-l8_0-184_4-Kesesuaian2&quot;)</value>
-      <webElementGuid>6c603e2d-a8ac-45e9-90ac-5caf44ac3016</webElementGuid>
+      <webElementGuid>4a249a09-7708-471a-9ece-89be837a0899</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b3-b6-l8_0-184_4-Kesesuaian2']</value>
-      <webElementGuid>6b4de385-6356-4329-9081-e13d335114d0</webElementGuid>
+      <webElementGuid>a721d2c0-285e-4025-8f99-0c7c72d1c82d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b6-l8_0-184_4-Kesesuaian2-container']/select</value>
-      <webElementGuid>6c7f4844-2257-46e0-8753-ff5b6df76607</webElementGuid>
+      <webElementGuid>4aeec1ce-afcc-4f30-9cb7-58c8fad9411c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Klaim Kas Kecil CBU - Biaya Kurir'])[1]/following::select[1]</value>
-      <webElementGuid>69223def-a408-4b3f-9bff-4fcc537dd354</webElementGuid>
+      <webElementGuid>52c1d256-8ff7-4700-b6a1-fafba8cfde5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[12]/following::select[1]</value>
-      <webElementGuid>2c6f7bad-36d6-47b9-b1c0-652aab82867d</webElementGuid>
+      <webElementGuid>9c3bfb2a-cb1e-437b-97a2-d3b7a0147a96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[13]/preceding::select[3]</value>
-      <webElementGuid>00de87e0-03a0-4369-81f5-c84bbf658d7e</webElementGuid>
+      <webElementGuid>39a473bc-0555-447c-bcfa-528b75713c3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test aja'])[1]/preceding::select[3]</value>
-      <webElementGuid>d4895602-360d-48d7-a080-d8337f9e845d</webElementGuid>
+      <webElementGuid>1661d2e9-d780-4cd8-9ab9-27cacd1e2fa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[2]/div/select</value>
-      <webElementGuid>509cac87-facf-479a-bd8b-66a08d8b906f</webElementGuid>
+      <webElementGuid>c5cf2ca0-6d75-4faf-bce6-d6264913a066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b3-b6-l8_0-184_4-Kesesuaian2' and (text() = 'Pilih OpsiAdaTidak Ada' or . = 'Pilih OpsiAdaTidak Ada')]</value>
-      <webElementGuid>bb9c645d-2065-41a5-b8d6-bc7c9c39c5c5</webElementGuid>
+      <webElementGuid>5b234d3b-52f2-4c27-8a21-25d8d7c8b4bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

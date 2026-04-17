@@ -34,9 +34,9 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Sprint1/Staff-Assi
     0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCash/select_Pilih OpsiSEMARANGSURABAYAJAKARTA GR_05f5b9'), 
-    '0', true)
+    '14', true)
 
-not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCash/select_Pilih OpsiBaruDalam ProsesMenunggu P_427f57'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCash/select_Pilih OpsiBaruDalam ProsesMenunggu P_427f57'), 
     '0', true)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCash/button_Cari'))
@@ -48,7 +48,7 @@ not_run: WebUI.click(findTestObject('Object Repository/Sprint1/Staff-Assing-And-
 not_run: WebUI.click(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/button_Tutup'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Rp 7,500.00_b3-b3-b6-l4_0-536_0-Input_4bf8bd'), 
-    '24-12-2024')
+    '24-02-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Rp 7,500.00_b3-b3-b6-l4_0-536_0-b4-In_bb4b9a'), 
     '7500')
@@ -57,7 +57,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/Staff-Assing
     '0', true)
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Rp 2,000.00_b3-b3-b6-l4_0-254_1-Input_506b82'), 
-    '24-12-2024')
+    '24-02-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Rp 2,000.00_b3-b3-b6-l4_0-254_1-b4-In_b1876f'), 
     '2000')
@@ -79,13 +79,13 @@ WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/P
     'Meja')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Action_b3-b3-b8-l3_0-205_0-TanggalClaim'), 
-    '24-12-2024')
+    '24-02-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Action_b3-b3-b8-l3_0-198_0-b4-Input_Mask'), 
     '10000')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Action_b3-b3-b8-l3_0-198_0-Input_Tang_a3d538'), 
-    '24-12-2024')
+    '24-02-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Action_b3-b3-b8-l3_0-198_0-b5-Input_Mask'), 
     '10000')
@@ -97,13 +97,13 @@ WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/P
     'Kursi')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Lihat Dokumen_b3-b3-b8-l3_0-198_1-Tan_91eb6f'), 
-    '24-12-2024')
+    '24-02-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Lihat Dokumen_b3-b3-b8-l3_0-198_1-b4-_06f58d'), 
     '5000')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Lihat Dokumen_b3-b3-b8-l3_0-198_1-Inp_595912'), 
-    '24-12-2024')
+    '24-02-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/Staff-Assing-And-Draft/Page_PettyCashDetail/input_Lihat Dokumen_b3-b3-b8-l3_0-198_1-b5-_447ccf'), 
     '5000')

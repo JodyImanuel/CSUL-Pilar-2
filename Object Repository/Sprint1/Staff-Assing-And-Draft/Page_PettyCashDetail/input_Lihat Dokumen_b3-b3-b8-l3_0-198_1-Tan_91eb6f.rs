@@ -6,12 +6,12 @@
    <elementGuidId>3321e28d-fad8-4bad-91c7-496d05b46e19</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[3]/div/table/tbody/tr[2]/td[2]/span/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b3-b3-b8-l3_0-198_1-TanggalClaim</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[3]/div/table/tbody/tr[2]/td[2]/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fa3ac4c7-4353-47bf-a78b-8668c8ecf6a0</webElementGuid>
+      <webElementGuid>21b456c5-ff24-4fa3-bba5-3f5148626b7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control OSFillParent</value>
-      <webElementGuid>7e23c51a-1051-437c-a54e-a9afb1eaa7ab</webElementGuid>
+      <webElementGuid>972244ff-d3e0-4da7-a3e8-b7ac3d3300a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>4639faeb-1113-4458-8a3c-e62197ee8a4d</webElementGuid>
+      <webElementGuid>89e58266-beae-433d-8e19-0191a11c9b89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>23fa6ad5-11f6-4189-9af3-2571e13f7be4</webElementGuid>
+      <webElementGuid>ebf5c7c8-1031-4bde-b16a-d0625a6e6348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>min</name>
       <type>Main</type>
       <value>2022-02-26</value>
-      <webElementGuid>cc29d60c-a587-4ff0-aed9-8d6f1f885eb3</webElementGuid>
+      <webElementGuid>c79283fd-e47e-43dd-9df5-0f0a0f54e9c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b8-l3_0-198_1-TanggalClaim</value>
-      <webElementGuid>1a24ed34-9c9a-41f3-a25e-464e63397375</webElementGuid>
+      <webElementGuid>3d1a5007-cc44-4294-af2e-db2e509623dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,15 +71,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b8-l3_0-198_1-TanggalClaim&quot;)</value>
-      <webElementGuid>380e0a7e-8f56-4311-b7a8-9c97e9a03b92</webElementGuid>
+      <webElementGuid>4179e048-68d9-4100-94e7-a87ffde8e501</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='b3-b3-b8-l3_0-198_1-TanggalClaim']</value>
-      <webElementGuid>6d1c0822-2d6c-4880-a520-85ae998e19a0</webElementGuid>
+      <webElementGuid>1a98144a-2a39-4524-a2ca-1f89d9f73073</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='b3-b3-b8-pettyCash']/tbody/tr[2]/td[2]/span/input</value>
-      <webElementGuid>b22ddac0-7626-4caa-a5a9-413267d86034</webElementGuid>
+      <webElementGuid>085f5cec-c236-4767-a1c1-372998ebab32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[2]/span/input</value>
-      <webElementGuid>91d45120-346b-465e-924c-e72c055582a4</webElementGuid>
+      <webElementGuid>43dcba8b-e24e-4334-98bd-ccfdb37ee1f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'date' and @id = 'b3-b3-b8-l3_0-198_1-TanggalClaim']</value>
-      <webElementGuid>232b3758-a3dd-4253-9dc4-128fb01b8bd9</webElementGuid>
+      <webElementGuid>1b260eeb-3eb6-400e-9178-887f8080e05e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

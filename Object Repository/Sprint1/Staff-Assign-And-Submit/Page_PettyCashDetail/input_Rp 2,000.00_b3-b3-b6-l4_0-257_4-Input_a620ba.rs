@@ -6,12 +6,12 @@
    <elementGuidId>0ac2b41d-c0e8-4ee0-8fc8-be9bd4676c2c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[1]/div[3]/div/div/table/tbody/tr[5]/td[6]/div/span/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b3-b3-b6-l4_0-257_4-Input_TanggalTransaksiKwitansi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[1]/div[3]/div/div/table/tbody/tr[5]/td[6]/div/span/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d4eabe77-2d40-435b-8216-ebd32a029be2</webElementGuid>
+      <webElementGuid>17a0bcca-57ea-475e-9c37-c459eeffebd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control OSFillParent</value>
-      <webElementGuid>2904f846-15fb-4129-800a-6164be55513e</webElementGuid>
+      <webElementGuid>4aa39f9b-4a7c-4619-9fd6-c8de97dfbc02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>9906e36b-47a3-43e7-b1e6-387303f51d87</webElementGuid>
+      <webElementGuid>1fd402d1-f2b9-484e-9c84-49ae62e53ae4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f98fb268-1d8f-42e0-b3f8-31ef71460379</webElementGuid>
+      <webElementGuid>2d652b9a-5800-4080-aef5-8b4f91b5b43d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>max</name>
       <type>Main</type>
       <value>2022-02-24</value>
-      <webElementGuid>0f0cd007-442a-4395-833b-0e2677fce45b</webElementGuid>
+      <webElementGuid>815776e2-c7b3-41ed-940e-b2d3b6ba24bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b6-l4_0-257_4-Input_TanggalTransaksiKwitansi</value>
-      <webElementGuid>1dcd6bad-dd8f-445e-b42c-af973feaeb06</webElementGuid>
+      <webElementGuid>d560ea10-fc34-4adf-a3e9-db66dee06ec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,15 +71,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b6-l4_0-257_4-Input_TanggalTransaksiKwitansi&quot;)</value>
-      <webElementGuid>bb3fd750-7360-4e4c-aceb-29421dc00d2a</webElementGuid>
+      <webElementGuid>b747b83e-166a-467f-a724-87f0f03fc7e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='b3-b3-b6-l4_0-257_4-Input_TanggalTransaksiKwitansi']</value>
-      <webElementGuid>782a51b2-95e9-43d3-a6ca-d1621eff410d</webElementGuid>
+      <webElementGuid>13d66734-11ea-4bb9-a9af-f9f2b198f4a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='b3-b3-b6-TableReimbursed']/tbody/tr[5]/td[6]/div/span/input</value>
-      <webElementGuid>e03c4a38-c83f-4f62-bde0-55299df52749</webElementGuid>
+      <webElementGuid>e59b8159-ad9f-478a-bc59-c7c654a6f8f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[6]/div/span/input</value>
-      <webElementGuid>572e6cd3-c9d5-49bb-88fd-f06083e55215</webElementGuid>
+      <webElementGuid>b74fd31e-4159-40a1-a82c-c5777c79c344</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'date' and @id = 'b3-b3-b6-l4_0-257_4-Input_TanggalTransaksiKwitansi']</value>
-      <webElementGuid>d38e75a5-4007-4ea3-9655-3c0509102bfe</webElementGuid>
+      <webElementGuid>a7a01730-7a77-4ad3-8fbc-bdb13d2137f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

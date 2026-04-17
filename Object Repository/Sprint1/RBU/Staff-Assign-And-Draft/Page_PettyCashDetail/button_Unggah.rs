@@ -6,12 +6,12 @@
    <elementGuidId>9946ba48-1507-4a22-b39f-e5758fdedf75</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[1]/td[6]/div/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-limegreen.margin-right-m</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[1]/td[6]/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ab1bd03e-005a-4d0d-9e9e-c2c7ce1b31e5</webElementGuid>
+      <webElementGuid>58ebb241-41aa-4bcb-8b56-3e88af349442</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-limegreen margin-right-m</value>
-      <webElementGuid>17e605aa-eda0-4857-801d-1ac272874471</webElementGuid>
+      <webElementGuid>22a5e538-8fa9-4268-b960-194eae73c786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e7b1d965-83c7-4246-9324-d95008c9b474</webElementGuid>
+      <webElementGuid>b69e90fd-c7d1-4173-aa25-dafe636b4f18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Unggah</value>
-      <webElementGuid>55990492-ebdc-4248-80e0-cb956ffc0ebc</webElementGuid>
+      <webElementGuid>24e79617-6347-46f4-bde3-10cda354ba7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b4-b6-DokumenPersetujuan&quot;)/div[3]/div[@class=&quot;margin-top-m overflow-x-scroll&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;table-row&quot;]/td[6]/div[@class=&quot;text-align-right&quot;]/button[@class=&quot;btn btn-limegreen margin-right-m&quot;]</value>
-      <webElementGuid>90276235-f8fb-4ec2-8492-44b35e83ec8c</webElementGuid>
+      <webElementGuid>8d337ea2-9262-4884-b909-981081fd1cdf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[11]</value>
-      <webElementGuid>784a38ed-dbc7-4fc5-87d3-37cb2c420943</webElementGuid>
+      <webElementGuid>ce10cb80-87d7-49d0-8061-2dbf65e632ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b4-b6-DokumenPersetujuan']/div[3]/div/table/tbody/tr/td[6]/div/button</value>
-      <webElementGuid>a65a05e2-bc52-446b-bb4a-547a488c0698</webElementGuid>
+      <webElementGuid>88c94375-e930-4414-bd3b-5353bf1526d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Klaim Kas Kecil RBU - Perjalanan Dinas'])[1]/following::button[1]</value>
-      <webElementGuid>48e9917d-f19c-42f9-871b-0657076763cb</webElementGuid>
+      <webElementGuid>fb363e0c-c689-45f2-93dc-1cd49d492db8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[2]/following::button[1]</value>
-      <webElementGuid>f8680ac8-48b9-49d6-be79-06d335967d08</webElementGuid>
+      <webElementGuid>05a113ce-9384-45af-bd91-df01ed26dee8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[9]/preceding::button[1]</value>
-      <webElementGuid>e567f61e-5d9e-432d-b29c-2eb03650b4a7</webElementGuid>
+      <webElementGuid>df4bf32a-0821-4844-829d-b5287593004b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Klaim Kas Kecil RBU - BBM Kendaraan'])[1]/preceding::button[2]</value>
-      <webElementGuid>30070aa8-732c-4dd7-8071-9272b41e73b7</webElementGuid>
+      <webElementGuid>9d309cc4-3841-4bc6-a912-ce0fa0d283a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Unggah']/parent::*</value>
-      <webElementGuid>2432d01d-7cae-4e4f-85eb-33a639a9f575</webElementGuid>
+      <webElementGuid>c4106efb-35c7-4ffc-906a-dc479211c10d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/div/button</value>
-      <webElementGuid>9c880c12-c00f-4c45-9141-2de43d8ca9f0</webElementGuid>
+      <webElementGuid>b839aec1-181b-49e5-9cca-a0c8ab62a61d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Unggah' or . = 'Unggah')]</value>
-      <webElementGuid>6a815f50-b9da-4396-a1a2-e3f99d32b7ef</webElementGuid>
+      <webElementGuid>45b72b79-debb-4f51-9912-fe3d5c862400</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

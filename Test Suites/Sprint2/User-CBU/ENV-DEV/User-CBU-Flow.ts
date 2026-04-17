@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>User-CBU-Flow</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>3cb679f5-1d0e-46fa-a321-b452503c01f7</testSuiteGuid>
+   <testCaseLink>
+      <guid>735225a7-b0dd-433d-9b27-b94f97b5153c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/SPV-CBU-Create-Task</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bf744742-e31b-43fe-b0b3-da9fdd4fb893</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/Staff-Assign-And-Draft</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9fbda225-cf37-4798-bb7a-5257b0acbcd6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce57bf45-70dd-4930-89e2-f78c349a4228</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>11337e08-e478-4b7a-ad12-31274c723df9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/Staff-Assign-And-Draft-1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d2d98ce2-701e-407a-aa0d-34c611f36a2d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6fc0e789-ea4d-45f0-a211-0301e8e64dd0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/Staff-Assign-And-Draft-2</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>99fa1372-fe99-4bc6-a148-8576919bcc07</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>68e66372-d9fa-403e-97f8-b6f234f6de66</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/Staff-Assign-And-Submit</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0c10b4eb-a3fa-46ec-90e4-11d728c01a82</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>511308ae-52f6-4849-9eaf-5af19dc56b84</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/SPV-CBU-Persetujuan</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3be201d3-44f1-4dae-bb4e-1d393c0cb12a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/SPV-CBU-Assign-PIC</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3b00000c-6201-4b63-a689-67a645524e27</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/PIC-CBU-Submit-Tindak-Lanjut</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3badea38-bdd9-4929-92f7-40a0fc0b0d84</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5325554a-c48b-48dd-b817-12d3d8242270</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-2/ENV-DEV/CBU/SPV-CBU-Submit-Tindak-Lanjut</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

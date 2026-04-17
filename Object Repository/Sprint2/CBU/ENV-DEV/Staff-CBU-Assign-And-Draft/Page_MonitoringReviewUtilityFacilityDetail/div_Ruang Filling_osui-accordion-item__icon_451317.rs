@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ruang Filling_osui-accordion-item__icon_451317</name>
+   <tag></tag>
+   <elementGuidId>82744be2-cdca-4868-8fc4-ed1d9e46f3f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b1-b4-l2-190_4-b2-TitleWrapper > div.osui-accordion-item__icon.osui-accordion-item__icon--caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[2]/div/div/div[5]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85c2715d-bb46-4ef7-bf84-98893736d9a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>osui-accordion-item__icon osui-accordion-item__icon--caret</value>
+      <webElementGuid>63164eff-713c-40b5-a3a7-ff66cddc2d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>af65c5e8-29a4-4535-99a6-e9ef6a9d5da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b4-l2-190_4-b2-TitleWrapper&quot;)/div[@class=&quot;osui-accordion-item__icon osui-accordion-item__icon--caret&quot;]</value>
+      <webElementGuid>b85901ed-2a0a-425f-b258-65ee9e73191a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b4-l2-190_4-b2-TitleWrapper']/div[2]</value>
+      <webElementGuid>cd616ead-a417-4fd2-b8a1-a0ca485d2acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]</value>
+      <webElementGuid>c8a759a5-a83f-402e-9e80-c4a2ab5a2837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

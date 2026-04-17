@@ -6,12 +6,12 @@
    <elementGuidId>6b3a14af-eba5-4ab6-8844-0fb7279c1657</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[2]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-orange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[2]/article/div/div/div/div[1]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8893b488-6839-483f-992f-3fe980b07281</webElementGuid>
+      <webElementGuid>fd799e8d-e59b-44af-b669-e9cf9edeb924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-orange</value>
-      <webElementGuid>27ca69a3-abc3-4e72-b8bd-77962bc80dea</webElementGuid>
+      <webElementGuid>be466888-a450-41ad-91ae-10fdc5bde022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>64894a1f-b9d4-471c-9809-1d62bff31d16</webElementGuid>
+      <webElementGuid>fde59fd7-d95b-47dd-a60d-8d1555d22df0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>8b92f814-48fa-4f7f-969c-45cd3253ba8d</webElementGuid>
+      <webElementGuid>8a8033ca-997d-4eba-b25f-e210a30f72c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +55,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b8-PettyCashOutStanding&quot;)/div[@class=&quot;text-align-right&quot;]/button[@class=&quot;btn btn-orange&quot;]</value>
-      <webElementGuid>5b273b4a-8555-4ac8-9209-ca1cb451d53b</webElementGuid>
+      <webElementGuid>dd36e0cb-5482-461e-983b-c8650f091836</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[18]</value>
-      <webElementGuid>34b285db-d8fb-43f4-b076-f51bda5f9fe3</webElementGuid>
+      <webElementGuid>b13dea99-f94f-40df-8b28-d5e83969770a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b8-PettyCashOutStanding']/div[2]/button</value>
-      <webElementGuid>396ae86c-7c8b-463e-9af1-07e2b56c9ea6</webElementGuid>
+      <webElementGuid>c4cdbd78-d20f-4f1a-8e8f-9adb8e674c71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Sesuai'])[10]/following::button[1]</value>
-      <webElementGuid>c24abd59-fe3b-401e-8164-7aec4765623d</webElementGuid>
+      <webElementGuid>5934ccee-732f-4b6c-bec9-3b588704db88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sesuai'])[10]/following::button[1]</value>
-      <webElementGuid>0d976af1-cd2c-4946-b439-06106a3474f5</webElementGuid>
+      <webElementGuid>e210607b-2d7d-46de-a35e-38d8ea6af8fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[3]/preceding::button[1]</value>
-      <webElementGuid>4fdd30dc-6823-44aa-99a9-bc1e1d7ec9c0</webElementGuid>
+      <webElementGuid>673e5ab1-d23c-45a4-922d-615f348f862f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Pengeluaran'])[1]/preceding::button[1]</value>
-      <webElementGuid>1aa7e857-b7df-41fc-bcb7-ad4327ea3e7d</webElementGuid>
+      <webElementGuid>9e549254-e899-454b-922e-e6b4de3bc0b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
-      <webElementGuid>8b214b9c-fef9-4712-abea-e0ecc4396358</webElementGuid>
+      <webElementGuid>6eb9367c-91b4-408d-8be6-ba22add3b11a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//article/div/div/div/div/div[2]/button</value>
-      <webElementGuid>91be965f-2ac3-489d-b26c-e1c45442d9d6</webElementGuid>
+      <webElementGuid>dae831a4-4ce4-4ce3-b31d-4f4ec930cfff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Add' or . = 'Add')]</value>
-      <webElementGuid>8ea44236-d1e5-41b4-b601-a31c8331a1d4</webElementGuid>
+      <webElementGuid>9f4343f6-e3b8-4196-ac14-4e9098d7e813</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

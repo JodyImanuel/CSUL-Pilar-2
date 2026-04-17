@@ -6,12 +6,12 @@
    <elementGuidId>d04d8852-1b6e-481a-b915-beb228d510d7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[3]/td[3]/div/select</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b3-b3-b6-l8_0-184_2-Kesesuaian3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[9]/td[3]/div/select</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>cab8b3af-d0b5-410b-890d-cdbc74d8c7f7</webElementGuid>
+      <webElementGuid>d5a51d43-7957-42e6-8754-9fb1829c92d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>7a8ea26d-6db5-4830-949e-ee71c83cd3cb</webElementGuid>
+      <webElementGuid>2279ffc3-3e25-4cf4-af97-e3773ac09cd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c69b0166-4518-482b-915a-cca35f624d8b</webElementGuid>
+      <webElementGuid>56dd134d-3650-4349-b672-f5ce6896b5c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b6-l8_0-184_2-Kesesuaian3</value>
-      <webElementGuid>9f3044b4-ae33-4bfc-9354-8bc8c6b5ed4f</webElementGuid>
+      <webElementGuid>40c6e809-db7b-4609-abdd-07228731f8ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih OpsiTepatTidak Tepat</value>
-      <webElementGuid>3cf42165-3cd1-4284-9270-fe90f332d9ce</webElementGuid>
+      <webElementGuid>8e295325-937a-45de-aebb-b541f91a4ddd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b6-l8_0-184_2-Kesesuaian3&quot;)</value>
-      <webElementGuid>d3f24d2c-a40c-4f7e-a3ae-cd1c21aa2fe4</webElementGuid>
+      <webElementGuid>2fda1655-13e4-44fc-a33c-d6de97f4e16e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b3-b6-l8_0-184_2-Kesesuaian3']</value>
-      <webElementGuid>1085de42-14dc-4e8d-a89f-4582df654e2b</webElementGuid>
+      <webElementGuid>f6bf8578-b2cf-4ead-af98-1613d7bf8cd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b6-l8_0-184_2-Kesesuaian3-container']/select</value>
-      <webElementGuid>6c654820-2d54-402d-b213-b8ca4c5af031</webElementGuid>
+      <webElementGuid>f1b75d0b-d1e4-4395-8159-603d36034a55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Klaim Kas Kecil CBU - ATK'])[1]/following::select[2]</value>
-      <webElementGuid>61ae3afe-a1e2-4e07-b526-2738fc07da76</webElementGuid>
+      <webElementGuid>46382df2-03d2-4811-a626-b429732dd72b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[10]/following::select[2]</value>
-      <webElementGuid>c036ae01-acaf-4d96-94d4-1af76949d3bf</webElementGuid>
+      <webElementGuid>f479a0d6-ddc7-422d-8160-8a90b361d089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[11]/preceding::select[2]</value>
-      <webElementGuid>4cded959-5932-4688-911a-17ea5effe547</webElementGuid>
+      <webElementGuid>48603049-58ea-42c4-9b99-e55abf1ba169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Klaim Kas Kecil CBU - Perawatan Alat'])[1]/preceding::select[2]</value>
-      <webElementGuid>cbcc6e87-303e-43ae-b822-9b43bd09bfa7</webElementGuid>
+      <webElementGuid>53be15e2-b1d4-4f28-8ead-61281909aeca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[3]/div/select</value>
-      <webElementGuid>7b215027-c7a1-4e5f-ba4c-8baff0e348d9</webElementGuid>
+      <webElementGuid>01e4cd12-d862-40a0-86ed-132d33d0cf61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b3-b6-l8_0-184_2-Kesesuaian3' and (text() = 'Pilih OpsiTepatTidak Tepat' or . = 'Pilih OpsiTepatTidak Tepat')]</value>
-      <webElementGuid>c6cda1d2-1114-4af8-8237-92984734cd0f</webElementGuid>
+      <webElementGuid>59a96bcb-8681-4527-9f33-45217cced8fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

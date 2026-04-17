@@ -6,12 +6,12 @@
    <elementGuidId>34eb46b8-43ee-4260-baed-5cb669dae2c6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/aside/div/div/nav/div[2]/div/div/div/div[4]/div/div/div[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#b2-l1-17_10-b3-SubMenuHeader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/aside/div/div/nav/div[2]/div/div/div/div[4]/div/div/div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ad2c1104-99f4-4792-b3f2-765187591213</webElementGuid>
+      <webElementGuid>9e30509a-ef07-441c-a710-9a1d5843e3e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>osui-submenu__header needsclick</value>
-      <webElementGuid>68ad16eb-c848-4da0-a296-877b4d627f1d</webElementGuid>
+      <webElementGuid>ebdbfac9-972d-4589-8b90-32076462586a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b2-l1-17_10-b3-SubMenuHeader</value>
-      <webElementGuid>4dd1a192-69e2-4d8b-8361-ee054def4a33</webElementGuid>
+      <webElementGuid>bfa8ec36-8501-45cf-bed7-3b416fc24e3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2c4bc7b4-e0c2-4861-9ac0-be1a5bd6d534</webElementGuid>
+      <webElementGuid>6b5b00f6-f270-4fd3-8020-c782972f5885</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cfd97641-8cbe-4fbe-b45c-06e146d3fa71</webElementGuid>
+      <webElementGuid>7e5676d7-e95e-428b-a6d6-84dbbd66e3bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>b2-l1-17_10-b3-Items</value>
-      <webElementGuid>c6636a96-406f-48e3-8d4e-397f4f57fea0</webElementGuid>
+      <webElementGuid>451bb609-b676-4e19-8076-b736a937af27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>62aaaeb9-1988-4fc7-a16e-3b0edb1d60d2</webElementGuid>
+      <webElementGuid>6eddf593-3bc1-4a3e-9381-94a727495c02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c4f45b0a-ead1-4a08-91b4-2afba94f3435</webElementGuid>
+      <webElementGuid>fd9485a0-0535-442d-b4f9-d810d9c57ea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tindak Lanjut</value>
-      <webElementGuid>50ad943e-ca99-418a-8c2e-b687526f6516</webElementGuid>
+      <webElementGuid>58370c34-ea43-442e-b6f8-8043d753257d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,15 +95,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b2-l1-17_10-b3-SubMenuHeader&quot;)</value>
-      <webElementGuid>54cf21c0-0255-4bce-bf98-59b3b59721f2</webElementGuid>
+      <webElementGuid>d2fb07a3-5ec0-44a9-bd8c-15c0d2b50feb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='b2-l1-17_10-b3-SubMenuHeader']</value>
-      <webElementGuid>b71a5435-f0d7-4f86-9218-8504fab38655</webElementGuid>
+      <webElementGuid>1026d17a-68d0-4619-a0d2-9440da79e585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b2-l1-17_10-b3-Submenu']/div</value>
-      <webElementGuid>2674c679-adae-4479-aa4d-00d4b7173990</webElementGuid>
+      <webElementGuid>5ad0105f-a529-4c38-a61f-de221b588d6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemeriksaan Aset Tarikan'])[2]/following::div[4]</value>
-      <webElementGuid>9c6ca2af-7832-41e2-b27f-6a6307376b62</webElementGuid>
+      <webElementGuid>a00bbccb-03bd-4047-9041-27b695c7a735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Tugas &amp; Surat Kuasa'])[2]/following::div[4]</value>
-      <webElementGuid>48cb8281-55d4-430f-acbb-f5980a2f3dbb</webElementGuid>
+      <webElementGuid>a501f8c5-cfe9-4811-acc1-f9d89639c86a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Akuisisi'])[3]/preceding::div[3]</value>
-      <webElementGuid>5d1d6b3b-7118-41d4-989f-5738b3702b27</webElementGuid>
+      <webElementGuid>6a9787c2-ff55-4d17-88ff-f424043846d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div</value>
-      <webElementGuid>0f6834e0-e447-446f-aca0-4bdada3c5ee2</webElementGuid>
+      <webElementGuid>14014b3f-d12e-458c-994d-d862cbc0e38b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'b2-l1-17_10-b3-SubMenuHeader' and (text() = 'Tindak Lanjut' or . = 'Tindak Lanjut')]</value>
-      <webElementGuid>6b2bdd37-ac5c-4582-a35f-10a69794fe7c</webElementGuid>
+      <webElementGuid>3a0f651a-3aab-4918-a43a-638b67af339c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

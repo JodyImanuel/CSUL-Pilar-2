@@ -17,20 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Sprint-1/Login-CBU/Login-PIC'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Sprint-1/RBU/Login-RBU/Login-PIC'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(3)
+WebUI.doubleClick(findTestObject('Object Repository/Sprint1/RBU/RBU-PIC-Submit-Tindak-Lanjut/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'), 
-    10)
+WebUI.click(findTestObject('Object Repository/Sprint1/RBU/RBU-PIC-Submit-Tindak-Lanjut/Page_Dashboard/div_Tindak Lanjut'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_ApplicationsCatalog/div_Risk Control Unit ApplicationRCU Apps c_31ac98'))
+WebUI.click(findTestObject('Object Repository/Sprint1/RBU/RBU-PIC-Submit-Tindak-Lanjut/Page_Dashboard/div_Operasional Cabang'))
 
-WebUI.click(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_Dashboard/div_Tindak Lanjut'))
+WebUI.click(findTestObject('Object Repository/Sprint1/RBU/RBU-PIC-Submit-Tindak-Lanjut/Page_Dashboard/a_Petty Cash'))
 
-WebUI.click(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_Dashboard/div_Operasional Cabang'))
-
-WebUI.click(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_Dashboard/a_Petty Cash'))
+WebUI.waitForElementPresent(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/select_Pilih OpsiCorporate Business UnitRet_46a7ca'), 
+    10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/select_Pilih OpsiCorporate Business UnitRet_46a7ca'), 
     '0', true)
@@ -40,7 +38,7 @@ WebUI.click(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/P
 WebUI.click(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCash/button_Tindak Lanjut'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCashDetail/input_BARU_b3-b1-b6-l4_0-845_0-TenggatWaktu_2f8543'), 
-    '28-03-2026')
+    '28-04-2026')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCashDetail/textarea_BARU_b3-b1-b6-l4_0-845_0-TextArea__0aca37'), 
     'Done')
@@ -66,7 +64,7 @@ WebUI.click(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/P
 WebUI.click(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCashDetail/div_OUTSTANDING PETTY CASH'))
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCashDetail/input__b3-b1-b8-b4-Input_TenggatWaktuPenyelesaian'), 
-    '24-03-2026')
+    '24-04-2026')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/PIC-Submit-Tindak-Lanjut/Page_TindakLanjutPettyCashDetail/textarea__b3-b1-b8-b4-TextArea_TindakLanjut'), 
     'Done')

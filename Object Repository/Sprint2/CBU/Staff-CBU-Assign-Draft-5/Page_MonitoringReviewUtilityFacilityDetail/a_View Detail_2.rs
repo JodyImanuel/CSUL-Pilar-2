@@ -6,11 +6,11 @@
    <elementGuidId>2d0a0e9e-cb17-458a-9ec1-9a1f360a6cf9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/table/tbody/tr[3]/td[13]/div/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[3]/div/div/div[2]/div/div/div[3]/div/div[2]/div/div[2]/div[2]/table/tbody/tr[9]/td[13]/div/a</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>67e4074a-8a3c-4e23-9a1a-48c3ee72834b</webElementGuid>
+      <webElementGuid>86998362-f478-4efc-b6c5-b620760cdf44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>0652eb13-ca38-480b-99cf-b156fce4fe85</webElementGuid>
+      <webElementGuid>232d867f-4290-47a4-946f-0201639f0b75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>View Detail</value>
-      <webElementGuid>3fa1c0d8-552a-4898-abb0-3d35cb6e74cf</webElementGuid>
+      <webElementGuid>241aacf6-2b3f-4fc0-9ac9-2352e792572d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b1-b4-l2-204_2-b2-Content&quot;)/div[2]/div[@class=&quot;overflow-x-scroll overflow-horizontal&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;table-row&quot;]/td[13]/div[@class=&quot;display-flex align-items-center&quot;]/a[1]</value>
-      <webElementGuid>2126931f-c520-4565-b51b-a788c0171af7</webElementGuid>
+      <webElementGuid>0c584b0b-948a-4350-9c57-8a7c1e339946</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b1-b4-l2-204_2-b2-Content']/div[2]/div[2]/table/tbody/tr[9]/td[13]/div/a</value>
-      <webElementGuid>93d05686-93fa-47c3-a6a4-e6a8315df9da</webElementGuid>
+      <webElementGuid>25cef25a-9cdb-413e-92e7-3dbea4160153</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'View Detail')])[54]</value>
-      <webElementGuid>12872209-4aa0-4281-a2b1-3bfdfdae8d92</webElementGuid>
+      <webElementGuid>a7f0c0ce-783a-4c25-a10d-98c5ca71eebe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[55]/following::a[1]</value>
-      <webElementGuid>ee464bd8-7a2f-41b9-b6f9-8e6f4ee4f41a</webElementGuid>
+      <webElementGuid>47128a0f-c672-4206-b124-2c388aee9dee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[159]/following::a[1]</value>
-      <webElementGuid>4e1464eb-15c7-4602-84b3-206eca0d0553</webElementGuid>
+      <webElementGuid>fd1d44fe-2b6e-4b62-9bae-c041313b61ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Handphone/Smartphone'])[3]/preceding::a[1]</value>
-      <webElementGuid>99bc62c0-c966-46f3-8a01-d6c30fbb4934</webElementGuid>
+      <webElementGuid>6fee6644-db90-4164-a526-c79a443aa4de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[160]/preceding::a[1]</value>
-      <webElementGuid>1d040c40-60bb-46d0-a719-d16efd1c35c2</webElementGuid>
+      <webElementGuid>02eaf70e-bf81-4847-8ecd-efd32c5a619c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[62]</value>
-      <webElementGuid>29e61591-34c3-42f9-b854-0805b22be11f</webElementGuid>
+      <webElementGuid>8fcc9c9e-bd34-4bed-ae92-4350fc268c6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div/div[2]/div[2]/table/tbody/tr[9]/td[13]/div/a</value>
-      <webElementGuid>11ce0663-7641-4269-822a-ed36ff276aa9</webElementGuid>
+      <webElementGuid>a8e31d96-9f8c-4bee-b718-7f24e01f20ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = 'View Detail' or . = 'View Detail')]</value>
-      <webElementGuid>fe860572-f156-4571-9f0e-a69fc94ce970</webElementGuid>
+      <webElementGuid>fa96ad4e-dec5-4e75-9faf-88d10d77fc2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

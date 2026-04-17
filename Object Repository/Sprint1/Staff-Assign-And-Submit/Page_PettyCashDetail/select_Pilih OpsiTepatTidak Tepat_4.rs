@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[5]/td[3]/div/select</value>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/section/div/div[1]/article/div/div/div/div[2]/div[3]/div/table/tbody/tr[11]/td[3]/div/select</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>cbd6afb8-332f-4d26-a062-ea3ccaefeb2f</webElementGuid>
+      <webElementGuid>5b090daf-ce16-439a-87ad-82b68362c7d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>ac22866b-ae42-4234-a16a-d3935a33f552</webElementGuid>
+      <webElementGuid>749ef7c1-5452-472b-87b2-d63c15cf1805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b881e7a4-0c6f-4b87-84e0-98a402e1499b</webElementGuid>
+      <webElementGuid>739c4c07-8977-47b3-8264-573664d276dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b3-b6-l8_0-184_4-Kesesuaian3</value>
-      <webElementGuid>679eb6e5-0912-499b-8361-917093ca77f7</webElementGuid>
+      <webElementGuid>a94a0ea3-75ad-430f-bd00-863948a594a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih OpsiTepatTidak Tepat</value>
-      <webElementGuid>5d4cd433-dba8-4d1a-ab65-8ec784c72def</webElementGuid>
+      <webElementGuid>c69d7bc0-c77b-4ac7-a86c-8c291f9c1b51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-b6-l8_0-184_4-Kesesuaian3&quot;)</value>
-      <webElementGuid>017d22ce-70f4-46df-add1-df6d4fea1e38</webElementGuid>
+      <webElementGuid>73ac5cc3-0170-49b2-a5aa-496d37008317</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b3-b6-l8_0-184_4-Kesesuaian3']</value>
-      <webElementGuid>04e0cf81-e7c0-417c-b740-61c286f171de</webElementGuid>
+      <webElementGuid>c036e79a-4f9c-4fac-95ca-80386c2295e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-b6-l8_0-184_4-Kesesuaian3-container']/select</value>
-      <webElementGuid>8f787eb0-c285-4f05-abd1-615d315fd785</webElementGuid>
+      <webElementGuid>3654a0b0-a4d9-4a5d-974b-cacb93d49ec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Klaim Kas Kecil CBU - Biaya Kurir'])[1]/following::select[2]</value>
-      <webElementGuid>270a6e4b-c803-44e3-a209-a517106e4b1e</webElementGuid>
+      <webElementGuid>0843ae11-41b4-4aca-b512-34042ef0a2a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[12]/following::select[2]</value>
-      <webElementGuid>72774813-1239-4ed2-b11a-bbbad0c51e7a</webElementGuid>
+      <webElementGuid>f1c6835b-3e56-4c68-a370-3deb57e47ce0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Dokumen'])[13]/preceding::select[2]</value>
-      <webElementGuid>9feba30f-4b28-4819-9e33-1326bd03fd7f</webElementGuid>
+      <webElementGuid>dae59ea9-8a99-452c-ad59-99fca668a80f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test aja'])[1]/preceding::select[2]</value>
-      <webElementGuid>c5025c7a-d5f0-417e-bfb7-565919b1f692</webElementGuid>
+      <webElementGuid>c515f7e4-c83e-44c8-ad63-fd4a4072f4b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[3]/div/select</value>
-      <webElementGuid>ba364d7d-5522-41ec-8f89-091e5680b741</webElementGuid>
+      <webElementGuid>89b4c8cb-2299-47c9-8463-48da4aad5eab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b3-b6-l8_0-184_4-Kesesuaian3' and (text() = 'Pilih OpsiTepatTidak Tepat' or . = 'Pilih OpsiTepatTidak Tepat')]</value>
-      <webElementGuid>3209f85d-96a4-4235-b4ab-d9d30eb8163f</webElementGuid>
+      <webElementGuid>c3cb2d8d-27bc-4f23-8d8c-f052c2710b7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

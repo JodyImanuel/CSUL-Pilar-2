@@ -6,12 +6,12 @@
    <elementGuidId>f4e86127-756a-4ff3-b4b9-ec48c5b0ca89</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div[1]/section/header/div[1]/div[2]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button[name=&quot;0.9a8xgg3sc79&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[3]/div[1]/section/header/div[1]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>36228244-d575-4a80-af6b-2658722ed3a0</webElementGuid>
+      <webElementGuid>f60634cd-c70f-454a-bda3-6713b64872fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>osui-tabs__header-item</value>
-      <webElementGuid>58f400d1-6d1d-4dc7-b1b4-92b46957ee73</webElementGuid>
+      <webElementGuid>c0ae8512-20a2-45ab-b644-dc650df7d5ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>0.9a8xgg3sc79</value>
-      <webElementGuid>438c0706-79c3-4d2a-a711-68002596374a</webElementGuid>
+      <webElementGuid>870a720d-aca1-4d8b-92cd-8447937a0e91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-tab</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>bb128f4a-6289-4c43-a0c0-3aa3cf62c3dd</webElementGuid>
+      <webElementGuid>527990b9-d6ec-4d4e-94bd-18c900613b81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>dc842593-69c5-4274-b732-6b4130f8f90f</webElementGuid>
+      <webElementGuid>a494e65c-0940-43c4-b3d1-29dd494cd4f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>9a8226fe-3662-4220-9702-706c32df3524</webElementGuid>
+      <webElementGuid>c19c00ac-9c17-4401-885c-714463f24ddf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c4b52107-9f6e-4510-844f-aa2c409b1e18</webElementGuid>
+      <webElementGuid>becf8de0-0f94-4965-8886-446e37ff8909</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>b3-b3-$b7</value>
-      <webElementGuid>f0ad2f61-882f-426e-8358-b394f7215aed</webElementGuid>
+      <webElementGuid>a52f2a54-db05-4843-90e3-26b084f7777f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OUTSTANDING PETTY CASH</value>
-      <webElementGuid>e3ecca75-fb0c-4009-b7eb-526dd50fc2c2</webElementGuid>
+      <webElementGuid>640b952c-4fee-4b9c-9f29-ef52f44dbf3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,15 +95,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b3-$b4&quot;)/button[@class=&quot;osui-tabs__header-item&quot;]</value>
-      <webElementGuid>a0562382-b29b-4530-869e-f2a90e3d51e6</webElementGuid>
+      <webElementGuid>2713311e-f5b0-40c4-b58d-719a1b9fff2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='0.9a8xgg3sc79']</value>
-      <webElementGuid>fded022f-282c-4ea4-bdd7-58c7e6874472</webElementGuid>
+      <webElementGuid>1e528d21-ec46-4881-9a5b-1ab6475f4ea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b3-$b4']/button</value>
-      <webElementGuid>d27d21b1-898a-4edb-82c6-2dfacd55eb21</webElementGuid>
+      <webElementGuid>6d800dd9-69c2-434e-b855-ff628f59d238</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PETTY CASH REIMBURSED'])[1]/following::button[1]</value>
-      <webElementGuid>69840a4f-aa00-4166-a7b7-206d0624975f</webElementGuid>
+      <webElementGuid>04d1c2fa-bca6-4748-902e-f7728f18e51b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[5]/following::button[2]</value>
-      <webElementGuid>949c7528-5e9a-4ffe-a3de-9ffb0599b62c</webElementGuid>
+      <webElementGuid>2cc3b999-e4d4-49b5-a42c-b2313d0c0020</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Transaksi'])[1]/preceding::button[1]</value>
-      <webElementGuid>e5f1effe-71bd-4e55-93cf-2fe2dbc8e954</webElementGuid>
+      <webElementGuid>a073c631-b098-48a5-a373-1b83cf5ad1b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>8d534614-ec2a-4000-ac5f-f7fd83e910e7</webElementGuid>
+      <webElementGuid>16f76d7d-fbde-4dbb-bc76-a12f23d6ac7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = '0.9a8xgg3sc79' and (text() = 'OUTSTANDING PETTY CASH' or . = 'OUTSTANDING PETTY CASH')]</value>
-      <webElementGuid>92cfc5d2-abe6-4a4e-9645-d99007abfa5d</webElementGuid>
+      <webElementGuid>79e3493a-062b-4644-9885-8095ee9acbdd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -117,55 +117,55 @@ WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft
 
 WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan_1'))
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/a_View Detail_3'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/a_View Detail_3'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiLantai 1Lantai 2Lantai 3'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiLantai 1Lantai 2Lantai 3'), 
     '1', true)
 
-WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Baik_b3-b1-b4-b13-Input_Baik'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Baik_b3-b1-b4-b13-Input_Baik'), 
     '1')
 
-WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Rusak_b3-b1-b4-b13-Input_Rusak'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Rusak_b3-b1-b4-b13-Input_Rusak'), 
     '0')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada_1'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada_1'), 
     '0', true)
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Unggah'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Unggah'))
 
-WebUI.uploadFile(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/div_Drag  drop files orBrowseSupported form_3a2f15'), 
+not_run: WebUI.uploadFile(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/div_Drag  drop files orBrowseSupported form_3a2f15'), 
     Lorem1)
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan_1'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan_1'))
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/a_View Detail_4'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/a_View Detail_4'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiLantai 1Lantai 2Lantai 3'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiLantai 1Lantai 2Lantai 3'), 
     '1', true)
 
-WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Baik_b3-b1-b4-b13-Input_Baik'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Baik_b3-b1-b4-b13-Input_Baik'), 
     '1')
 
-WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Rusak_b3-b1-b4-b13-Input_Rusak'), 
+not_run: WebUI.setText(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/input_Rusak_b3-b1-b4-b13-Input_Rusak'), 
     '0')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada_1'), 
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/select_Pilih OpsiAdaTidak Ada_1'), 
     '0', true)
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Unggah'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Unggah'))
 
-WebUI.uploadFile(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/div_Drag  drop files orBrowseSupported form_3a2f15'), 
+not_run: WebUI.uploadFile(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/div_Drag  drop files orBrowseSupported form_3a2f15'), 
     Lorem1)
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan'))
 
-WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan_1'))
+not_run: WebUI.click(findTestObject('Object Repository/Sprint2/CBU/Staff-CBU-Assign-Draft-5/Page_MonitoringReviewUtilityFacilityDetail/button_Simpan_1'))
 
